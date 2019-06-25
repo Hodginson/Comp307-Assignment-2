@@ -1,0 +1,1205 @@
+[06.05.2019 20:28:49,902] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[06.05.2019 20:28:49,956] [main] INFO  Part14.Main  - Evolving generation 300, memory free: 204.9 MB
+[06.05.2019 20:28:50,756] [main] INFO  Part14.Main  - Evolving generation 325, memory free: 182.0 MB
+[06.05.2019 20:28:51,338] [main] INFO  Part14.Main  - Evolving generation 350, memory free: 198.3 MB
+[06.05.2019 20:28:51,906] [main] INFO  Part14.Main  - Evolving generation 375, memory free: 169.5 MB
+[06.05.2019 20:28:52,462] [main] INFO  Part14.Main  - Evolving generation 400, memory free: 175.8 MB
+[06.05.2019 20:28:53,020] [main] INFO  Part14.Main  - Evolving generation 425, memory free: 178.1 MB
+[06.05.2019 20:28:53,611] [main] INFO  Part14.Main  - Evolving generation 450, memory free: 176.0 MB
+[06.05.2019 20:28:54,223] [main] INFO  Part14.Main  - Evolving generation 475, memory free: 169.4 MB
+[06.05.2019 20:28:54,813] [main] INFO  Part14.Main  - Evolving generation 500, memory free: 191.1 MB
+[06.05.2019 20:28:55,381] [main] INFO  Part14.Main  - Evolving generation 525, memory free: 172.6 MB
+[06.05.2019 20:28:56,004] [main] INFO  Part14.Main  - Evolving generation 550, memory free: 181.5 MB
+[06.05.2019 20:28:56,510] [main] INFO  Part14.Main  - Evolving generation 575, memory free: 191.1 MB
+[06.05.2019 20:28:57,054] [main] INFO  Part14.Main  - Evolving generation 600, memory free: 172.1 MB
+[06.05.2019 20:28:57,588] [main] INFO  Part14.Main  - Evolving generation 625, memory free: 182.9 MB
+[06.05.2019 20:28:58,180] [main] INFO  Part14.Main  - Evolving generation 650, memory free: 195.0 MB
+[06.05.2019 20:28:58,770] [main] INFO  Part14.Main  - Evolving generation 675, memory free: 176.8 MB
+[06.05.2019 20:28:59,347] [main] INFO  Part14.Main  - Evolving generation 700, memory free: 187.1 MB
+[06.05.2019 20:28:59,965] [main] INFO  Part14.Main  - Evolving generation 725, memory free: 167.8 MB
+[06.05.2019 20:29:00,522] [main] INFO  Part14.Main  - Evolving generation 750, memory free: 179.3 MB
+[06.05.2019 20:29:01,108] [main] INFO  Part14.Main  - Evolving generation 775, memory free: 190.1 MB
+[06.05.2019 20:29:01,674] [main] INFO  Part14.Main  - Evolving generation 800, memory free: 171.2 MB
+[06.05.2019 20:29:02,330] [main] INFO  Part14.Main  - Evolving generation 825, memory free: 182.1 MB
+[06.05.2019 20:29:02,965] [main] INFO  Part14.Main  - Evolving generation 850, memory free: 192.9 MB
+[06.05.2019 20:29:03,553] [main] INFO  Part14.Main  - Evolving generation 875, memory free: 173.0 MB
+[06.05.2019 20:29:04,161] [main] INFO  Part14.Main  - Evolving generation 900, memory free: 186.3 MB
+[06.05.2019 20:29:04,800] [main] INFO  Part14.Main  - Evolving generation 925, memory free: 167.5 MB
+[06.05.2019 20:29:05,428] [main] INFO  Part14.Main  - Evolving generation 950, memory free: 179.6 MB
+[06.05.2019 20:29:06,059] [main] INFO  Part14.Main  - Evolving generation 975, memory free: 192.2 MB
+[06.05.2019 20:29:06,675] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 11.78
+[06.05.2019 20:29:06,675] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (I - (G - ((H - ((G + A + E + B) - D)) - C))) / F
+[06.05.2019 20:29:06,675] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[06.05.2019 20:29:06,676] [main] INFO  Part14.Main  - Test set accuracy = 13.872832369942195%
+[06.05.2019 20:29:23,964] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[06.05.2019 20:29:23,975] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 243.5 MB
+[06.05.2019 20:29:23,984] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[06.05.2019 20:29:24,014] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 243.5 MB
+[06.05.2019 20:29:24,015] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[06.05.2019 20:29:24,016] [main] INFO  Part3.Main  - Evolving generation 0, memory free: 240.8 MB
+[06.05.2019 20:29:24,096] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 10.26
+[06.05.2019 20:29:24,097] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: H - (D * C)
+[06.05.2019 20:29:24,097] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:29:24,146] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 10.45
+[06.05.2019 20:29:24,147] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((D + G + I + C) - (G * F * C)) - (G + B + A + A)
+[06.05.2019 20:29:24,147] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:29:24,434] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 10.64
+[06.05.2019 20:29:24,434] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((-7 * G) - (G + H + (-1 - I))) - ((B - D) * D)
+[06.05.2019 20:29:24,435] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:29:24,507] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 11.02
+[06.05.2019 20:29:24,508] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((F - A) + (-2 * G) + -2 + H) * A * (H * C)) - -2
+[06.05.2019 20:29:24,508] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:29:24,579] [main] INFO  Part3.Main  - Evolving generation 25, memory free: 185.6 MB
+[06.05.2019 20:29:25,099] [main] INFO  Part3.Main  - Evolving generation 50, memory free: 195.0 MB
+[06.05.2019 20:29:25,590] [main] INFO  Part3.Main  - Evolving generation 75, memory free: 190.9 MB
+[06.05.2019 20:29:26,036] [main] INFO  Part3.Main  - Evolving generation 100, memory free: 193.5 MB
+[06.05.2019 20:29:26,522] [main] INFO  Part3.Main  - Evolving generation 125, memory free: 190.9 MB
+[06.05.2019 20:29:27,061] [main] INFO  Part3.Main  - Evolving generation 150, memory free: 182.3 MB
+[06.05.2019 20:29:27,554] [main] INFO  Part3.Main  - Evolving generation 175, memory free: 172.1 MB
+[06.05.2019 20:29:28,117] [main] INFO  Part3.Main  - Evolving generation 200, memory free: 205.2 MB
+[06.05.2019 20:29:28,644] [main] INFO  Part3.Main  - Evolving generation 225, memory free: 184.2 MB
+[06.05.2019 20:29:29,173] [main] INFO  Part3.Main  - Evolving generation 250, memory free: 205.0 MB
+[06.05.2019 20:29:29,723] [main] INFO  Part3.Main  - Evolving generation 275, memory free: 183.8 MB
+[06.05.2019 20:29:30,215] [main] INFO  Part3.Main  - Evolving generation 300, memory free: 204.1 MB
+[06.05.2019 20:29:30,721] [main] INFO  Part3.Main  - Evolving generation 325, memory free: 180.2 MB
+[06.05.2019 20:29:31,178] [main] INFO  Part3.Main  - Evolving generation 350, memory free: 193.9 MB
+[06.05.2019 20:29:31,752] [main] INFO  Part3.Main  - Evolving generation 375, memory free: 203.6 MB
+[06.05.2019 20:29:32,219] [main] INFO  Part3.Main  - Evolving generation 400, memory free: 170.3 MB
+[06.05.2019 20:29:32,703] [main] INFO  Part3.Main  - Evolving generation 425, memory free: 171.8 MB
+[06.05.2019 20:29:33,208] [main] INFO  Part3.Main  - Evolving generation 450, memory free: 169.1 MB
+[06.05.2019 20:29:33,728] [main] INFO  Part3.Main  - Evolving generation 475, memory free: 195.3 MB
+[06.05.2019 20:29:34,222] [main] INFO  Part3.Main  - Evolving generation 500, memory free: 182.6 MB
+[06.05.2019 20:29:34,718] [main] INFO  Part3.Main  - Evolving generation 525, memory free: 195.1 MB
+[06.05.2019 20:29:35,208] [main] INFO  Part3.Main  - Evolving generation 550, memory free: 176.2 MB
+[06.05.2019 20:29:35,692] [main] INFO  Part3.Main  - Evolving generation 575, memory free: 187.4 MB
+[06.05.2019 20:29:36,194] [main] INFO  Part3.Main  - Evolving generation 600, memory free: 169.2 MB
+[06.05.2019 20:29:36,728] [main] INFO  Part3.Main  - Evolving generation 625, memory free: 181.2 MB
+[06.05.2019 20:29:37,354] [main] INFO  Part3.Main  - Evolving generation 650, memory free: 192.8 MB
+[06.05.2019 20:29:37,885] [main] INFO  Part3.Main  - Evolving generation 675, memory free: 173.6 MB
+[06.05.2019 20:29:38,426] [main] INFO  Part3.Main  - Evolving generation 700, memory free: 184.0 MB
+[06.05.2019 20:29:38,447] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 11.21
+[06.05.2019 20:29:38,447] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((H - I) * D) + G + B + C) * ((H - I) * D)) + (F - E)
+[06.05.2019 20:29:38,447] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:29:38,973] [main] INFO  Part3.Main  - Evolving generation 725, memory free: 193.6 MB
+[06.05.2019 20:29:39,499] [main] INFO  Part3.Main  - Evolving generation 750, memory free: 173.7 MB
+[06.05.2019 20:29:40,017] [main] INFO  Part3.Main  - Evolving generation 775, memory free: 184.2 MB
+[06.05.2019 20:29:40,525] [main] INFO  Part3.Main  - Evolving generation 800, memory free: 194.8 MB
+[06.05.2019 20:29:41,020] [main] INFO  Part3.Main  - Evolving generation 825, memory free: 174.9 MB
+[06.05.2019 20:29:41,499] [main] INFO  Part3.Main  - Evolving generation 850, memory free: 184.3 MB
+[06.05.2019 20:29:42,023] [main] INFO  Part3.Main  - Evolving generation 875, memory free: 193.5 MB
+[06.05.2019 20:29:42,663] [main] INFO  Part3.Main  - Evolving generation 900, memory free: 173.8 MB
+[06.05.2019 20:29:43,179] [main] INFO  Part3.Main  - Evolving generation 925, memory free: 185.2 MB
+[06.05.2019 20:29:43,688] [main] INFO  Part3.Main  - Evolving generation 950, memory free: 165.1 MB
+[06.05.2019 20:29:44,227] [main] INFO  Part3.Main  - Evolving generation 975, memory free: 176.6 MB
+[06.05.2019 20:29:44,734] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 11.21
+[06.05.2019 20:29:44,734] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((H - I) * D) + G + B + C) * ((H - I) * D)) + (F - E)
+[06.05.2019 20:29:44,734] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:29:44,734] [main] INFO  Part3.Main  - The programs accuracy on the test set: 15.028901734104046%
+[06.05.2019 20:29:51,954] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[06.05.2019 20:29:51,965] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 243.5 MB
+[06.05.2019 20:29:51,971] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[06.05.2019 20:29:52,002] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 243.5 MB
+[06.05.2019 20:29:52,003] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[06.05.2019 20:29:52,004] [main] INFO  Part14.Main  - Evolving generation 0, memory free: 240.8 MB
+[06.05.2019 20:29:52,086] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 10.07
+[06.05.2019 20:29:52,087] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (B / 6) - ((E / H) * (D + G + C))
+[06.05.2019 20:29:52,087] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:29:52,115] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 10.45
+[06.05.2019 20:29:52,116] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((-1 * D) * (I - (H * H * A))) - ((A * C) - (C - B))
+[06.05.2019 20:29:52,116] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:29:52,405] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 10.64
+[06.05.2019 20:29:52,405] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (D + F) - (C + H + A + E)
+[06.05.2019 20:29:52,405] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:29:52,543] [main] INFO  Part14.Main  - Evolving generation 25, memory free: 185.7 MB
+[06.05.2019 20:29:52,842] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 11.02
+[06.05.2019 20:29:52,842] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: H * ((D + F) - (E + A + B + C))
+[06.05.2019 20:29:52,842] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:29:53,027] [main] INFO  Part14.Main  - Evolving generation 50, memory free: 194.7 MB
+[06.05.2019 20:29:53,510] [main] INFO  Part14.Main  - Evolving generation 75, memory free: 191.7 MB
+[06.05.2019 20:29:53,567] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 11.21
+[06.05.2019 20:29:53,567] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (E + (F - H) + E + B) * ((D + F) - (E + A + B + C))
+[06.05.2019 20:29:53,567] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:29:53,606] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 11.59
+[06.05.2019 20:29:53,606] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (D + F) - (E * G * (E + A + B + C))
+[06.05.2019 20:29:53,606] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:29:54,032] [main] INFO  Part14.Main  - Evolving generation 100, memory free: 196.5 MB
+[06.05.2019 20:29:54,505] [main] INFO  Part14.Main  - Evolving generation 125, memory free: 193.4 MB
+[06.05.2019 20:29:55,015] [main] INFO  Part14.Main  - Evolving generation 150, memory free: 188.9 MB
+[06.05.2019 20:29:55,669] [main] INFO  Part14.Main  - Evolving generation 175, memory free: 180.7 MB
+[06.05.2019 20:29:56,175] [main] INFO  Part14.Main  - Evolving generation 200, memory free: 217.1 MB
+[06.05.2019 20:29:56,765] [main] INFO  Part14.Main  - Evolving generation 225, memory free: 199.6 MB
+[06.05.2019 20:29:57,257] [main] INFO  Part14.Main  - Evolving generation 250, memory free: 184.4 MB
+[06.05.2019 20:29:57,759] [main] INFO  Part14.Main  - Evolving generation 275, memory free: 211.0 MB
+[06.05.2019 20:29:58,250] [main] INFO  Part14.Main  - Evolving generation 300, memory free: 190.7 MB
+[06.05.2019 20:29:58,760] [main] INFO  Part14.Main  - Evolving generation 325, memory free: 168.7 MB
+[06.05.2019 20:29:59,263] [main] INFO  Part14.Main  - Evolving generation 350, memory free: 186.7 MB
+[06.05.2019 20:29:59,780] [main] INFO  Part14.Main  - Evolving generation 375, memory free: 197.9 MB
+[06.05.2019 20:30:00,229] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 11.78
+[06.05.2019 20:30:00,230] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (H * (D + F) * E) - (E * G * (E + A + B + C))
+[06.05.2019 20:30:00,230] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:30:00,330] [main] INFO  Part14.Main  - Evolving generation 400, memory free: 168.2 MB
+[06.05.2019 20:30:00,859] [main] INFO  Part14.Main  - Evolving generation 425, memory free: 172.1 MB
+[06.05.2019 20:30:01,359] [main] INFO  Part14.Main  - Evolving generation 450, memory free: 172.3 MB
+[06.05.2019 20:30:01,905] [main] INFO  Part14.Main  - Evolving generation 475, memory free: 200.3 MB
+[06.05.2019 20:30:02,448] [main] INFO  Part14.Main  - Evolving generation 500, memory free: 189.7 MB
+[06.05.2019 20:30:02,992] [main] INFO  Part14.Main  - Evolving generation 525, memory free: 174.4 MB
+[06.05.2019 20:30:03,650] [main] INFO  Part14.Main  - Evolving generation 550, memory free: 187.4 MB
+[06.05.2019 20:30:04,319] [main] INFO  Part14.Main  - Evolving generation 575, memory free: 169.2 MB
+[06.05.2019 20:30:04,875] [main] INFO  Part14.Main  - Evolving generation 600, memory free: 181.7 MB
+[06.05.2019 20:30:05,411] [main] INFO  Part14.Main  - Evolving generation 625, memory free: 193.3 MB
+[06.05.2019 20:30:05,964] [main] INFO  Part14.Main  - Evolving generation 650, memory free: 176.0 MB
+[06.05.2019 20:30:06,515] [main] INFO  Part14.Main  - Evolving generation 675, memory free: 187.5 MB
+[06.05.2019 20:30:07,045] [main] INFO  Part14.Main  - Evolving generation 700, memory free: 169.8 MB
+[06.05.2019 20:30:07,541] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 11.97
+[06.05.2019 20:30:07,541] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (E * G * (F * ((D + F) - (E * G * (G + A + B + C))))) / D
+[06.05.2019 20:30:07,542] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[06.05.2019 20:30:07,585] [main] INFO  Part14.Main  - Evolving generation 725, memory free: 180.4 MB
+[06.05.2019 20:30:08,145] [main] INFO  Part14.Main  - Evolving generation 750, memory free: 192.1 MB
+[06.05.2019 20:30:08,693] [main] INFO  Part14.Main  - Evolving generation 775, memory free: 173.4 MB
+[06.05.2019 20:30:09,261] [main] INFO  Part14.Main  - Evolving generation 800, memory free: 186.0 MB
+[06.05.2019 20:30:09,810] [main] INFO  Part14.Main  - Evolving generation 825, memory free: 166.5 MB
+[06.05.2019 20:30:10,366] [main] INFO  Part14.Main  - Evolving generation 850, memory free: 179.8 MB
+[06.05.2019 20:30:10,923] [main] INFO  Part14.Main  - Evolving generation 875, memory free: 192.3 MB
+[06.05.2019 20:30:11,520] [main] INFO  Part14.Main  - Evolving generation 900, memory free: 175.6 MB
+[06.05.2019 20:30:12,087] [main] INFO  Part14.Main  - Evolving generation 925, memory free: 188.3 MB
+[06.05.2019 20:30:12,640] [main] INFO  Part14.Main  - Evolving generation 950, memory free: 168.8 MB
+[06.05.2019 20:30:13,204] [main] INFO  Part14.Main  - Evolving generation 975, memory free: 181.1 MB
+[06.05.2019 20:30:13,750] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 11.97
+[06.05.2019 20:30:13,751] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (E * G * (F * ((D + F) - (E * G * (G + A + B + C))))) / D
+[06.05.2019 20:30:13,751] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[06.05.2019 20:30:13,751] [main] INFO  Part14.Main  - Test set accuracy = 13.872832369942195%
+[06.05.2019 20:32:00,261] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[06.05.2019 20:32:00,271] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 243.5 MB
+[06.05.2019 20:32:00,277] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[06.05.2019 20:32:00,307] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 243.5 MB
+[06.05.2019 20:32:00,308] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[06.05.2019 20:32:00,309] [main] INFO  aas.Part3  - Evolving generation 0, memory free: 240.8 MB
+[06.05.2019 20:32:00,393] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 87.26
+[06.05.2019 20:32:00,394] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: X2 - (X6 * X6)
+[06.05.2019 20:32:00,394] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:32:00,422] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 91.25
+[06.05.2019 20:32:00,422] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: X2 / -3
+[06.05.2019 20:32:00,423] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[06.05.2019 20:32:00,445] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 92.01
+[06.05.2019 20:32:00,446] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (9 - (X4 + X6 + X8 + X8)) - X6
+[06.05.2019 20:32:00,446] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:32:00,491] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 93.91
+[06.05.2019 20:32:00,492] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: X3 - (X9 + X6 + -6 + (X3 + X8))
+[06.05.2019 20:32:00,492] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:32:00,513] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.43
+[06.05.2019 20:32:00,514] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 9 - (X9 + X6 + X1)
+[06.05.2019 20:32:00,514] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:32:00,598] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.62
+[06.05.2019 20:32:00,598] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((X8 + X6) * (9 - (X9 + X6 + X1))) - (X9 - X6)) + (X4 - X3)
+[06.05.2019 20:32:00,598] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:32:00,641] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.81
+[06.05.2019 20:32:00,641] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((X5 / X3) - X6) + ((X8 + X6) * (9 - (X9 + X6 + X1)))
+[06.05.2019 20:32:00,641] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:32:00,706] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.57
+[06.05.2019 20:32:00,706] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X5 * (9 - (X9 + X6 + X1)) * X5) + (X8 * (X2 / -3))
+[06.05.2019 20:32:00,707] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:32:00,905] [main] INFO  aas.Part3  - Evolving generation 25, memory free: 183.1 MB
+[06.05.2019 20:32:01,038] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.76
+[06.05.2019 20:32:01,038] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((X7 * X3) * (8 - (X9 + X6 + X1)) * X5) + 5) + 8
+[06.05.2019 20:32:01,038] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:32:01,312] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:32:01,312] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((8 - (X9 + X6 + X1)) * X2 * X7) + 8
+[06.05.2019 20:32:01,313] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:32:01,418] [main] INFO  aas.Part3  - Evolving generation 50, memory free: 191.1 MB
+[06.05.2019 20:32:01,906] [main] INFO  aas.Part3  - Evolving generation 75, memory free: 188.1 MB
+[06.05.2019 20:32:02,396] [main] INFO  aas.Part3  - Evolving generation 100, memory free: 188.0 MB
+[06.05.2019 20:32:02,926] [main] INFO  aas.Part3  - Evolving generation 125, memory free: 183.1 MB
+[06.05.2019 20:32:03,460] [main] INFO  aas.Part3  - Evolving generation 150, memory free: 175.5 MB
+[06.05.2019 20:32:03,999] [main] INFO  aas.Part3  - Evolving generation 175, memory free: 216.1 MB
+[06.05.2019 20:32:04,528] [main] INFO  aas.Part3  - Evolving generation 200, memory free: 199.1 MB
+[06.05.2019 20:32:05,045] [main] INFO  aas.Part3  - Evolving generation 225, memory free: 179.4 MB
+[06.05.2019 20:32:05,575] [main] INFO  aas.Part3  - Evolving generation 250, memory free: 201.1 MB
+[06.05.2019 20:32:06,285] [main] INFO  aas.Part3  - Evolving generation 275, memory free: 178.7 MB
+[06.05.2019 20:32:06,820] [main] INFO  aas.Part3  - Evolving generation 300, memory free: 199.5 MB
+[06.05.2019 20:32:07,002] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 97.14
+[06.05.2019 20:32:07,002] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((8 - (X9 + X6 + X1)) * X2 * X7) + ((10 - (X2 * X8)) + 4)
+[06.05.2019 20:32:07,002] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:32:07,344] [main] INFO  aas.Part3  - Evolving generation 325, memory free: 173.3 MB
+[06.05.2019 20:32:08,029] [main] INFO  aas.Part3  - Evolving generation 350, memory free: 186.1 MB
+[06.05.2019 20:32:08,849] [main] INFO  aas.Part3  - Evolving generation 375, memory free: 193.1 MB
+[06.05.2019 20:32:09,415] [main] INFO  aas.Part3  - Evolving generation 400, memory free: 197.2 MB
+[06.05.2019 20:32:10,091] [main] INFO  aas.Part3  - Evolving generation 425, memory free: 196.1 MB
+[06.05.2019 20:32:10,769] [main] INFO  aas.Part3  - Evolving generation 450, memory free: 191.9 MB
+[06.05.2019 20:32:11,419] [main] INFO  aas.Part3  - Evolving generation 475, memory free: 181.1 MB
+[06.05.2019 20:32:12,082] [main] INFO  aas.Part3  - Evolving generation 500, memory free: 197.7 MB
+[06.05.2019 20:32:12,569] [main] INFO  aas.Part3  - Evolving generation 525, memory free: 177.8 MB
+[06.05.2019 20:32:13,084] [main] INFO  aas.Part3  - Evolving generation 550, memory free: 188.1 MB
+[06.05.2019 20:32:13,618] [main] INFO  aas.Part3  - Evolving generation 575, memory free: 166.1 MB
+[06.05.2019 20:32:14,154] [main] INFO  aas.Part3  - Evolving generation 600, memory free: 175.6 MB
+[06.05.2019 20:32:14,658] [main] INFO  aas.Part3  - Evolving generation 625, memory free: 185.8 MB
+[06.05.2019 20:32:15,184] [main] INFO  aas.Part3  - Evolving generation 650, memory free: 166.7 MB
+[06.05.2019 20:32:15,705] [main] INFO  aas.Part3  - Evolving generation 675, memory free: 176.9 MB
+[06.05.2019 20:32:16,192] [main] INFO  aas.Part3  - Evolving generation 700, memory free: 187.0 MB
+[06.05.2019 20:32:16,676] [main] INFO  aas.Part3  - Evolving generation 725, memory free: 166.9 MB
+[06.05.2019 20:32:17,175] [main] INFO  aas.Part3  - Evolving generation 750, memory free: 178.2 MB
+[06.05.2019 20:32:17,680] [main] INFO  aas.Part3  - Evolving generation 775, memory free: 188.4 MB
+[06.05.2019 20:32:18,191] [main] INFO  aas.Part3  - Evolving generation 800, memory free: 167.4 MB
+[06.05.2019 20:32:18,839] [main] INFO  aas.Part3  - Evolving generation 825, memory free: 179.7 MB
+[06.05.2019 20:32:19,407] [main] INFO  aas.Part3  - Evolving generation 850, memory free: 189.7 MB
+[06.05.2019 20:32:19,943] [main] INFO  aas.Part3  - Evolving generation 875, memory free: 168.6 MB
+[06.05.2019 20:32:20,454] [main] INFO  aas.Part3  - Evolving generation 900, memory free: 179.7 MB
+[06.05.2019 20:32:20,977] [main] INFO  aas.Part3  - Evolving generation 925, memory free: 189.6 MB
+[06.05.2019 20:32:21,483] [main] INFO  aas.Part3  - Evolving generation 950, memory free: 169.2 MB
+[06.05.2019 20:32:21,987] [main] INFO  aas.Part3  - Evolving generation 975, memory free: 178.2 MB
+[06.05.2019 20:32:22,536] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 97.14
+[06.05.2019 20:32:22,536] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((8 - (X9 + X6 + X1)) * X2 * X7) + ((10 - (X2 * X8)) + 4)
+[06.05.2019 20:32:22,536] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:32:22,537] [main] INFO  aas.Part3  - The programs accuracy on the test set: 97.6878612716763%
+[06.05.2019 20:34:53,238] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[06.05.2019 20:34:53,249] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 243.5 MB
+[06.05.2019 20:34:53,255] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[06.05.2019 20:34:53,284] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 243.5 MB
+[06.05.2019 20:34:53,286] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[06.05.2019 20:34:53,287] [main] INFO  aas.Part3  - Evolving generation 0, memory free: 240.8 MB
+[06.05.2019 20:34:53,376] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 88.40
+[06.05.2019 20:34:53,377] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X7 - -2) + (10 + 10 + X4) + (X6 * -2 * X8) + (X5 - X1)
+[06.05.2019 20:34:53,377] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:34:53,413] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 92.01
+[06.05.2019 20:34:53,413] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: X8 + 2 + (X4 - (X4 * (X9 * X6 * X2)))
+[06.05.2019 20:34:53,414] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:34:53,445] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 93.34
+[06.05.2019 20:34:53,445] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (-5 * -5) - (X6 + (X6 + X6 + X7 + X2) + X6 + X7)
+[06.05.2019 20:34:53,446] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:34:53,489] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 94.10
+[06.05.2019 20:34:53,490] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X7 - -2) + 9 + (X6 * -2 * X8) + (X5 - X1)
+[06.05.2019 20:34:53,490] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:34:53,554] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.24
+[06.05.2019 20:34:53,554] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (9 - X6) - (X3 * X8)
+[06.05.2019 20:34:53,554] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:34:53,614] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.43
+[06.05.2019 20:34:53,614] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (9 - X6) - (X5 + X2 + (X2 / 2))
+[06.05.2019 20:34:53,614] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:34:53,903] [main] INFO  aas.Part3  - Evolving generation 25, memory free: 182.5 MB
+[06.05.2019 20:34:53,964] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.19
+[06.05.2019 20:34:53,964] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((X5 + X5) * (X3 + X1 + X6 + X2)) + ((X2 * X5 * -6) * (X1 + -6 + X6))
+[06.05.2019 20:34:53,964] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:34:54,398] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.38
+[06.05.2019 20:34:54,398] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X4 + X1 + X7) + (((X2 * X5 * -1) * (X1 + -6 + X6)) * X8)
+[06.05.2019 20:34:54,398] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:34:54,423] [main] INFO  aas.Part3  - Evolving generation 50, memory free: 187.0 MB
+[06.05.2019 20:34:54,803] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.76
+[06.05.2019 20:34:54,803] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X7 / X1) + (X8 + 10 + (10 - (X6 * X8 * X1))) + (10 - (X7 * X2))
+[06.05.2019 20:34:54,803] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:34:54,962] [main] INFO  aas.Part3  - Evolving generation 75, memory free: 183.1 MB
+[06.05.2019 20:34:55,487] [main] INFO  aas.Part3  - Evolving generation 100, memory free: 183.2 MB
+[06.05.2019 20:34:56,018] [main] INFO  aas.Part3  - Evolving generation 125, memory free: 178.2 MB
+[06.05.2019 20:34:56,549] [main] INFO  aas.Part3  - Evolving generation 150, memory free: 171.0 MB
+[06.05.2019 20:34:57,115] [main] INFO  aas.Part3  - Evolving generation 175, memory free: 210.1 MB
+[06.05.2019 20:34:57,330] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:34:57,331] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 7 + (X3 + X2 + ((3 - (X2 * X1 * X6)) + X5 + 10))
+[06.05.2019 20:34:57,331] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:34:57,680] [main] INFO  aas.Part3  - Evolving generation 200, memory free: 190.8 MB
+[06.05.2019 20:34:58,251] [main] INFO  aas.Part3  - Evolving generation 225, memory free: 169.5 MB
+[06.05.2019 20:34:58,832] [main] INFO  aas.Part3  - Evolving generation 250, memory free: 192.2 MB
+[06.05.2019 20:34:59,462] [main] INFO  aas.Part3  - Evolving generation 275, memory free: 209.1 MB
+[06.05.2019 20:35:00,025] [main] INFO  aas.Part3  - Evolving generation 300, memory free: 186.3 MB
+[06.05.2019 20:35:00,557] [main] INFO  aas.Part3  - Evolving generation 325, memory free: 202.9 MB
+[06.05.2019 20:35:01,136] [main] INFO  aas.Part3  - Evolving generation 350, memory free: 175.0 MB
+[06.05.2019 20:35:01,673] [main] INFO  aas.Part3  - Evolving generation 375, memory free: 181.9 MB
+[06.05.2019 20:35:02,300] [main] INFO  aas.Part3  - Evolving generation 400, memory free: 186.4 MB
+[06.05.2019 20:35:02,837] [main] INFO  aas.Part3  - Evolving generation 425, memory free: 185.7 MB
+[06.05.2019 20:35:03,352] [main] INFO  aas.Part3  - Evolving generation 450, memory free: 183.1 MB
+[06.05.2019 20:35:03,945] [main] INFO  aas.Part3  - Evolving generation 475, memory free: 173.2 MB
+[06.05.2019 20:35:04,522] [main] INFO  aas.Part3  - Evolving generation 500, memory free: 189.7 MB
+[06.05.2019 20:35:05,122] [main] INFO  aas.Part3  - Evolving generation 525, memory free: 170.4 MB
+[06.05.2019 20:35:05,683] [main] INFO  aas.Part3  - Evolving generation 550, memory free: 181.2 MB
+[06.05.2019 20:35:06,248] [main] INFO  aas.Part3  - Evolving generation 575, memory free: 192.6 MB
+[06.05.2019 20:35:06,782] [main] INFO  aas.Part3  - Evolving generation 600, memory free: 172.2 MB
+[06.05.2019 20:35:07,323] [main] INFO  aas.Part3  - Evolving generation 625, memory free: 183.3 MB
+[06.05.2019 20:35:07,902] [main] INFO  aas.Part3  - Evolving generation 650, memory free: 192.2 MB
+[06.05.2019 20:35:08,474] [main] INFO  aas.Part3  - Evolving generation 675, memory free: 174.3 MB
+[06.05.2019 20:35:09,045] [main] INFO  aas.Part3  - Evolving generation 700, memory free: 186.3 MB
+[06.05.2019 20:35:09,629] [main] INFO  aas.Part3  - Evolving generation 725, memory free: 166.7 MB
+[06.05.2019 20:35:10,178] [main] INFO  aas.Part3  - Evolving generation 750, memory free: 178.8 MB
+[06.05.2019 20:35:10,699] [main] INFO  aas.Part3  - Evolving generation 775, memory free: 190.4 MB
+[06.05.2019 20:35:11,237] [main] INFO  aas.Part3  - Evolving generation 800, memory free: 170.5 MB
+[06.05.2019 20:35:11,742] [main] INFO  aas.Part3  - Evolving generation 825, memory free: 182.1 MB
+[06.05.2019 20:35:12,259] [main] INFO  aas.Part3  - Evolving generation 850, memory free: 192.2 MB
+[06.05.2019 20:35:12,793] [main] INFO  aas.Part3  - Evolving generation 875, memory free: 171.8 MB
+[06.05.2019 20:35:13,373] [main] INFO  aas.Part3  - Evolving generation 900, memory free: 182.2 MB
+[06.05.2019 20:35:13,889] [main] INFO  aas.Part3  - Evolving generation 925, memory free: 193.3 MB
+[06.05.2019 20:35:14,406] [main] INFO  aas.Part3  - Evolving generation 950, memory free: 172.6 MB
+[06.05.2019 20:35:15,006] [main] INFO  aas.Part3  - Evolving generation 975, memory free: 183.4 MB
+[06.05.2019 20:35:15,518] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:35:15,518] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 7 + (X3 + X2 + ((3 - (X2 * X1 * X6)) + X5 + 10))
+[06.05.2019 20:35:15,518] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:35:15,519] [main] INFO  aas.Part3  - The programs accuracy on the test set: 97.10982658959537%
+[06.05.2019 20:36:31,720] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[06.05.2019 20:36:31,723] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 243.5 MB
+[06.05.2019 20:36:31,732] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[06.05.2019 20:36:31,761] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 243.5 MB
+[06.05.2019 20:36:31,762] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[06.05.2019 20:36:31,763] [main] INFO  aas.Part3  - Evolving generation 0, memory free: 240.8 MB
+[06.05.2019 20:36:31,840] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 91.63
+[06.05.2019 20:36:31,841] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X5 + X6 + X1 + X1) - (X8 * X7 * X6)
+[06.05.2019 20:36:31,841] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:36:31,866] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.05
+[06.05.2019 20:36:31,867] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X3 + -5 + X6) * (X7 + -5 + X4 + X8) * ((X2 + X8) / -5)
+[06.05.2019 20:36:31,867] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:36:32,121] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.24
+[06.05.2019 20:36:32,121] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X3 + -5 + X6) * (X7 + -5 + X4 + X8) * (((X6 * X2 * X9) + X8) / -5)
+[06.05.2019 20:36:32,122] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:36:32,163] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.62
+[06.05.2019 20:36:32,164] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (7 - X6) - (X2 + X8)
+[06.05.2019 20:36:32,164] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:36:32,266] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.81
+[06.05.2019 20:36:32,266] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X4 + X5) - (X4 * X1 * (X4 * X8 * (X3 + -5 + X6)))
+[06.05.2019 20:36:32,267] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:36:32,374] [main] INFO  aas.Part3  - Evolving generation 25, memory free: 181.7 MB
+[06.05.2019 20:36:32,765] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.00
+[06.05.2019 20:36:32,765] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X3 + -2 + X6) - (X4 * X1 * ((X4 * X8 * X9) * X8 * (X3 + -5 + X6)))
+[06.05.2019 20:36:32,766] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:36:32,804] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.38
+[06.05.2019 20:36:32,804] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (9 - X9) - (X7 * (X3 + -3 + X6))
+[06.05.2019 20:36:32,804] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:36:32,881] [main] INFO  aas.Part3  - Evolving generation 50, memory free: 186.8 MB
+[06.05.2019 20:36:33,376] [main] INFO  aas.Part3  - Evolving generation 75, memory free: 184.8 MB
+[06.05.2019 20:36:33,872] [main] INFO  aas.Part3  - Evolving generation 100, memory free: 184.8 MB
+[06.05.2019 20:36:34,392] [main] INFO  aas.Part3  - Evolving generation 125, memory free: 181.9 MB
+[06.05.2019 20:36:34,888] [main] INFO  aas.Part3  - Evolving generation 150, memory free: 175.5 MB
+[06.05.2019 20:36:35,144] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.76
+[06.05.2019 20:36:35,145] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((9 - (X6 + (X1 + X4 + X5 + X6))) + 10) - (X3 + X9)
+[06.05.2019 20:36:35,145] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:36:35,392] [main] INFO  aas.Part3  - Evolving generation 175, memory free: 216.1 MB
+[06.05.2019 20:36:35,905] [main] INFO  aas.Part3  - Evolving generation 200, memory free: 198.0 MB
+[06.05.2019 20:36:36,421] [main] INFO  aas.Part3  - Evolving generation 225, memory free: 179.7 MB
+[06.05.2019 20:36:36,927] [main] INFO  aas.Part3  - Evolving generation 250, memory free: 207.4 MB
+[06.05.2019 20:36:37,442] [main] INFO  aas.Part3  - Evolving generation 275, memory free: 186.0 MB
+[06.05.2019 20:36:38,022] [main] INFO  aas.Part3  - Evolving generation 300, memory free: 205.6 MB
+[06.05.2019 20:36:38,510] [main] INFO  aas.Part3  - Evolving generation 325, memory free: 179.2 MB
+[06.05.2019 20:36:39,017] [main] INFO  aas.Part3  - Evolving generation 350, memory free: 193.9 MB
+[06.05.2019 20:36:39,548] [main] INFO  aas.Part3  - Evolving generation 375, memory free: 201.3 MB
+[06.05.2019 20:36:40,068] [main] INFO  aas.Part3  - Evolving generation 400, memory free: 166.9 MB
+[06.05.2019 20:36:40,589] [main] INFO  aas.Part3  - Evolving generation 425, memory free: 168.0 MB
+[06.05.2019 20:36:41,109] [main] INFO  aas.Part3  - Evolving generation 450, memory free: 197.9 MB
+[06.05.2019 20:36:41,621] [main] INFO  aas.Part3  - Evolving generation 475, memory free: 188.0 MB
+[06.05.2019 20:36:42,164] [main] INFO  aas.Part3  - Evolving generation 500, memory free: 173.4 MB
+[06.05.2019 20:36:42,674] [main] INFO  aas.Part3  - Evolving generation 525, memory free: 184.6 MB
+[06.05.2019 20:36:43,135] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:36:43,136] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((3 - (X2 * X3 * X6)) - X7) + 10) - (-6 - (9 - (X8 * X3 * X6)))
+[06.05.2019 20:36:43,136] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:36:43,195] [main] INFO  aas.Part3  - Evolving generation 550, memory free: 194.6 MB
+[06.05.2019 20:36:43,696] [main] INFO  aas.Part3  - Evolving generation 575, memory free: 174.6 MB
+[06.05.2019 20:36:44,219] [main] INFO  aas.Part3  - Evolving generation 600, memory free: 184.8 MB
+[06.05.2019 20:36:44,715] [main] INFO  aas.Part3  - Evolving generation 625, memory free: 195.4 MB
+[06.05.2019 20:36:45,235] [main] INFO  aas.Part3  - Evolving generation 650, memory free: 174.7 MB
+[06.05.2019 20:36:45,747] [main] INFO  aas.Part3  - Evolving generation 675, memory free: 184.3 MB
+[06.05.2019 20:36:46,284] [main] INFO  aas.Part3  - Evolving generation 700, memory free: 192.7 MB
+[06.05.2019 20:36:46,800] [main] INFO  aas.Part3  - Evolving generation 725, memory free: 172.3 MB
+[06.05.2019 20:36:47,346] [main] INFO  aas.Part3  - Evolving generation 750, memory free: 181.6 MB
+[06.05.2019 20:36:47,893] [main] INFO  aas.Part3  - Evolving generation 775, memory free: 189.2 MB
+[06.05.2019 20:36:48,426] [main] INFO  aas.Part3  - Evolving generation 800, memory free: 168.2 MB
+[06.05.2019 20:36:48,932] [main] INFO  aas.Part3  - Evolving generation 825, memory free: 177.9 MB
+[06.05.2019 20:36:49,441] [main] INFO  aas.Part3  - Evolving generation 850, memory free: 187.5 MB
+[06.05.2019 20:36:49,976] [main] INFO  aas.Part3  - Evolving generation 875, memory free: 166.0 MB
+[06.05.2019 20:36:50,498] [main] INFO  aas.Part3  - Evolving generation 900, memory free: 176.3 MB
+[06.05.2019 20:36:50,991] [main] INFO  aas.Part3  - Evolving generation 925, memory free: 185.4 MB
+[06.05.2019 20:36:51,513] [main] INFO  aas.Part3  - Evolving generation 950, memory free: 165.0 MB
+[06.05.2019 20:36:52,034] [main] INFO  aas.Part3  - Evolving generation 975, memory free: 175.1 MB
+[06.05.2019 20:36:52,536] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:36:52,536] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((3 - (X2 * X3 * X6)) - X7) + 10) - (-6 - (9 - (X8 * X3 * X6)))
+[06.05.2019 20:36:52,536] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:36:52,536] [main] INFO  aas.Part3  - The programs accuracy on the test set: 98.26589595375722%
+[06.05.2019 20:37:38,924] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[06.05.2019 20:37:38,928] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 243.5 MB
+[06.05.2019 20:37:38,934] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[06.05.2019 20:37:38,964] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 243.5 MB
+[06.05.2019 20:37:38,965] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[06.05.2019 20:37:38,966] [main] INFO  aas.Part3  - Evolving generation 0, memory free: 240.8 MB
+[06.05.2019 20:37:39,043] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 91.63
+[06.05.2019 20:37:39,044] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X5 + X6 + X1 + X1) - (X8 * X7 * X6)
+[06.05.2019 20:37:39,044] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:37:39,070] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.05
+[06.05.2019 20:37:39,070] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X3 + -5 + X6) * (X7 + -5 + X4 + X8) * ((X2 + X8) / -5)
+[06.05.2019 20:37:39,070] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:37:39,318] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.24
+[06.05.2019 20:37:39,318] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X3 + -5 + X6) * (X7 + -5 + X4 + X8) * (((X6 * X2 * X9) + X8) / -5)
+[06.05.2019 20:37:39,318] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:37:39,357] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.62
+[06.05.2019 20:37:39,358] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (7 - X6) - (X2 + X8)
+[06.05.2019 20:37:39,358] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:37:39,454] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.81
+[06.05.2019 20:37:39,454] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X4 + X5) - (X4 * X1 * (X4 * X8 * (X3 + -5 + X6)))
+[06.05.2019 20:37:39,455] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:37:39,552] [main] INFO  aas.Part3  - Evolving generation 25, memory free: 182.4 MB
+[06.05.2019 20:37:39,947] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.00
+[06.05.2019 20:37:39,948] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X3 + -2 + X6) - (X4 * X1 * ((X4 * X8 * X9) * X8 * (X3 + -5 + X6)))
+[06.05.2019 20:37:39,948] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:37:39,987] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.38
+[06.05.2019 20:37:39,988] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (9 - X9) - (X7 * (X3 + -3 + X6))
+[06.05.2019 20:37:39,988] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:37:40,065] [main] INFO  aas.Part3  - Evolving generation 50, memory free: 186.5 MB
+[06.05.2019 20:37:40,560] [main] INFO  aas.Part3  - Evolving generation 75, memory free: 184.7 MB
+[06.05.2019 20:37:41,063] [main] INFO  aas.Part3  - Evolving generation 100, memory free: 184.8 MB
+[06.05.2019 20:37:41,558] [main] INFO  aas.Part3  - Evolving generation 125, memory free: 181.9 MB
+[06.05.2019 20:37:42,064] [main] INFO  aas.Part3  - Evolving generation 150, memory free: 175.4 MB
+[06.05.2019 20:37:42,328] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.76
+[06.05.2019 20:37:42,329] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((9 - (X6 + (X1 + X4 + X5 + X6))) + 10) - (X3 + X9)
+[06.05.2019 20:37:42,329] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:37:42,576] [main] INFO  aas.Part3  - Evolving generation 175, memory free: 216.1 MB
+[06.05.2019 20:37:43,093] [main] INFO  aas.Part3  - Evolving generation 200, memory free: 198.4 MB
+[06.05.2019 20:37:43,595] [main] INFO  aas.Part3  - Evolving generation 225, memory free: 177.8 MB
+[06.05.2019 20:37:44,104] [main] INFO  aas.Part3  - Evolving generation 250, memory free: 200.6 MB
+[06.05.2019 20:37:44,623] [main] INFO  aas.Part3  - Evolving generation 275, memory free: 179.6 MB
+[06.05.2019 20:37:45,131] [main] INFO  aas.Part3  - Evolving generation 300, memory free: 198.6 MB
+[06.05.2019 20:37:45,623] [main] INFO  aas.Part3  - Evolving generation 325, memory free: 173.6 MB
+[06.05.2019 20:37:46,137] [main] INFO  aas.Part3  - Evolving generation 350, memory free: 187.4 MB
+[06.05.2019 20:37:46,656] [main] INFO  aas.Part3  - Evolving generation 375, memory free: 194.8 MB
+[06.05.2019 20:37:47,161] [main] INFO  aas.Part3  - Evolving generation 400, memory free: 199.4 MB
+[06.05.2019 20:37:47,798] [main] INFO  aas.Part3  - Evolving generation 425, memory free: 197.9 MB
+[06.05.2019 20:37:48,309] [main] INFO  aas.Part3  - Evolving generation 450, memory free: 191.7 MB
+[06.05.2019 20:37:48,813] [main] INFO  aas.Part3  - Evolving generation 475, memory free: 181.7 MB
+[06.05.2019 20:37:49,357] [main] INFO  aas.Part3  - Evolving generation 500, memory free: 166.7 MB
+[06.05.2019 20:37:49,860] [main] INFO  aas.Part3  - Evolving generation 525, memory free: 177.8 MB
+[06.05.2019 20:37:50,314] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:37:50,314] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((3 - (X2 * X3 * X6)) - X7) + 10) - (-6 - (9 - (X8 * X3 * X6)))
+[06.05.2019 20:37:50,314] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:37:50,378] [main] INFO  aas.Part3  - Evolving generation 550, memory free: 188.8 MB
+[06.05.2019 20:37:50,875] [main] INFO  aas.Part3  - Evolving generation 575, memory free: 167.9 MB
+[06.05.2019 20:37:51,382] [main] INFO  aas.Part3  - Evolving generation 600, memory free: 178.4 MB
+[06.05.2019 20:37:51,878] [main] INFO  aas.Part3  - Evolving generation 625, memory free: 189.0 MB
+[06.05.2019 20:37:52,370] [main] INFO  aas.Part3  - Evolving generation 650, memory free: 168.6 MB
+[06.05.2019 20:37:52,872] [main] INFO  aas.Part3  - Evolving generation 675, memory free: 178.3 MB
+[06.05.2019 20:37:53,376] [main] INFO  aas.Part3  - Evolving generation 700, memory free: 187.3 MB
+[06.05.2019 20:37:54,054] [main] INFO  aas.Part3  - Evolving generation 725, memory free: 165.2 MB
+[06.05.2019 20:37:54,565] [main] INFO  aas.Part3  - Evolving generation 750, memory free: 174.8 MB
+[06.05.2019 20:37:55,093] [main] INFO  aas.Part3  - Evolving generation 775, memory free: 183.3 MB
+[06.05.2019 20:37:55,646] [main] INFO  aas.Part3  - Evolving generation 800, memory free: 192.3 MB
+[06.05.2019 20:37:56,232] [main] INFO  aas.Part3  - Evolving generation 825, memory free: 171.3 MB
+[06.05.2019 20:37:56,747] [main] INFO  aas.Part3  - Evolving generation 850, memory free: 180.9 MB
+[06.05.2019 20:37:57,344] [main] INFO  aas.Part3  - Evolving generation 875, memory free: 191.2 MB
+[06.05.2019 20:37:57,854] [main] INFO  aas.Part3  - Evolving generation 900, memory free: 169.7 MB
+[06.05.2019 20:37:58,339] [main] INFO  aas.Part3  - Evolving generation 925, memory free: 179.3 MB
+[06.05.2019 20:37:58,859] [main] INFO  aas.Part3  - Evolving generation 950, memory free: 190.0 MB
+[06.05.2019 20:37:59,366] [main] INFO  aas.Part3  - Evolving generation 975, memory free: 169.2 MB
+[06.05.2019 20:37:59,871] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:37:59,871] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((3 - (X2 * X3 * X6)) - X7) + 10) - (-6 - (9 - (X8 * X3 * X6)))
+[06.05.2019 20:37:59,871] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:37:59,872] [main] INFO  aas.Part3  - The programs accuracy on the test set: 98.26589595375722%
+[06.05.2019 20:38:34,700] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[06.05.2019 20:38:34,704] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 243.5 MB
+[06.05.2019 20:38:34,712] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[06.05.2019 20:38:34,738] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 243.5 MB
+[06.05.2019 20:38:34,740] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[06.05.2019 20:38:34,740] [main] INFO  Part14.Main  - Evolving generation 0, memory free: 240.8 MB
+[06.05.2019 20:38:34,823] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 10.07
+[06.05.2019 20:38:34,824] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (F / E) - (D + B + I)
+[06.05.2019 20:38:34,824] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:38:34,851] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 10.45
+[06.05.2019 20:38:34,851] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((E * -5 * H) - (G * C * B)) + F + I + F
+[06.05.2019 20:38:34,851] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:38:34,944] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 10.64
+[06.05.2019 20:38:34,944] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (F / E) - (C + B)
+[06.05.2019 20:38:34,944] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:38:35,360] [main] INFO  Part14.Main  - Evolving generation 25, memory free: 185.0 MB
+[06.05.2019 20:38:35,419] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 11.02
+[06.05.2019 20:38:35,419] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((F / (C + B)) * (F * D)) - (G + C + D + (G / C))
+[06.05.2019 20:38:35,419] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:38:35,869] [main] INFO  Part14.Main  - Evolving generation 50, memory free: 192.2 MB
+[06.05.2019 20:38:36,408] [main] INFO  Part14.Main  - Evolving generation 75, memory free: 189.7 MB
+[06.05.2019 20:38:36,937] [main] INFO  Part14.Main  - Evolving generation 100, memory free: 191.7 MB
+[06.05.2019 20:38:37,483] [main] INFO  Part14.Main  - Evolving generation 125, memory free: 188.7 MB
+[06.05.2019 20:38:38,013] [main] INFO  Part14.Main  - Evolving generation 150, memory free: 181.0 MB
+[06.05.2019 20:38:38,555] [main] INFO  Part14.Main  - Evolving generation 175, memory free: 167.9 MB
+[06.05.2019 20:38:39,133] [main] INFO  Part14.Main  - Evolving generation 200, memory free: 203.3 MB
+[06.05.2019 20:38:39,735] [main] INFO  Part14.Main  - Evolving generation 225, memory free: 183.4 MB
+[06.05.2019 20:38:40,343] [main] INFO  Part14.Main  - Evolving generation 250, memory free: 210.5 MB
+[06.05.2019 20:38:40,953] [main] INFO  Part14.Main  - Evolving generation 275, memory free: 188.8 MB
+[06.05.2019 20:38:41,524] [main] INFO  Part14.Main  - Evolving generation 300, memory free: 208.3 MB
+[06.05.2019 20:38:42,095] [main] INFO  Part14.Main  - Evolving generation 325, memory free: 183.6 MB
+[06.05.2019 20:38:42,697] [main] INFO  Part14.Main  - Evolving generation 350, memory free: 196.5 MB
+[06.05.2019 20:38:43,238] [main] INFO  Part14.Main  - Evolving generation 375, memory free: 204.3 MB
+[06.05.2019 20:38:43,864] [main] INFO  Part14.Main  - Evolving generation 400, memory free: 170.3 MB
+[06.05.2019 20:38:44,445] [main] INFO  Part14.Main  - Evolving generation 425, memory free: 171.8 MB
+[06.05.2019 20:38:45,141] [main] INFO  Part14.Main  - Evolving generation 450, memory free: 167.6 MB
+[06.05.2019 20:38:45,555] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 11.21
+[06.05.2019 20:38:45,555] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((I / G) * (F / (C + (B / H)))) - E) - E) * I * G
+[06.05.2019 20:38:45,555] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[06.05.2019 20:38:45,712] [main] INFO  Part14.Main  - Evolving generation 475, memory free: 192.2 MB
+[06.05.2019 20:38:46,264] [main] INFO  Part14.Main  - Evolving generation 500, memory free: 178.1 MB
+[06.05.2019 20:38:46,825] [main] INFO  Part14.Main  - Evolving generation 525, memory free: 189.6 MB
+[06.05.2019 20:38:47,451] [main] INFO  Part14.Main  - Evolving generation 550, memory free: 170.1 MB
+[06.05.2019 20:38:47,548] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 11.40
+[06.05.2019 20:38:47,548] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (D * (((I / G) * (F / (C + (B / H)))) - E)) - (A + E)
+[06.05.2019 20:38:47,548] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[06.05.2019 20:38:48,041] [main] INFO  Part14.Main  - Evolving generation 575, memory free: 182.0 MB
+[06.05.2019 20:38:48,615] [main] INFO  Part14.Main  - Evolving generation 600, memory free: 193.0 MB
+[06.05.2019 20:38:49,295] [main] INFO  Part14.Main  - Evolving generation 625, memory free: 176.3 MB
+[06.05.2019 20:38:50,036] [main] INFO  Part14.Main  - Evolving generation 650, memory free: 189.6 MB
+[06.05.2019 20:38:50,771] [main] INFO  Part14.Main  - Evolving generation 675, memory free: 172.4 MB
+[06.05.2019 20:38:51,509] [main] INFO  Part14.Main  - Evolving generation 700, memory free: 185.7 MB
+[06.05.2019 20:38:52,252] [main] INFO  Part14.Main  - Evolving generation 725, memory free: 169.6 MB
+[06.05.2019 20:38:52,993] [main] INFO  Part14.Main  - Evolving generation 750, memory free: 184.2 MB
+[06.05.2019 20:38:53,726] [main] INFO  Part14.Main  - Evolving generation 775, memory free: 195.6 MB
+[06.05.2019 20:38:54,461] [main] INFO  Part14.Main  - Evolving generation 800, memory free: 177.7 MB
+[06.05.2019 20:38:55,200] [main] INFO  Part14.Main  - Evolving generation 825, memory free: 190.0 MB
+[06.05.2019 20:38:55,709] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 11.59
+[06.05.2019 20:38:55,710] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((((F / (C + (B / H))) * C) * C) * C) * C) / G) - A
+[06.05.2019 20:38:55,710] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 9
+[06.05.2019 20:38:55,912] [main] INFO  Part14.Main  - Evolving generation 850, memory free: 173.1 MB
+[06.05.2019 20:38:56,654] [main] INFO  Part14.Main  - Evolving generation 875, memory free: 185.2 MB
+[06.05.2019 20:38:57,345] [main] INFO  Part14.Main  - Evolving generation 900, memory free: 166.3 MB
+[06.05.2019 20:38:58,064] [main] INFO  Part14.Main  - Evolving generation 925, memory free: 179.1 MB
+[06.05.2019 20:38:58,772] [main] INFO  Part14.Main  - Evolving generation 950, memory free: 193.5 MB
+[06.05.2019 20:38:59,493] [main] INFO  Part14.Main  - Evolving generation 975, memory free: 176.7 MB
+[06.05.2019 20:39:00,201] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 11.59
+[06.05.2019 20:39:00,201] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((((F / (C + (B / H))) * C) * C) * C) * C) / G) - A
+[06.05.2019 20:39:00,201] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 9
+[06.05.2019 20:39:00,201] [main] INFO  Part14.Main  - Test set accuracy = 12.138728323699421%
+[06.05.2019 20:40:03,725] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[06.05.2019 20:40:03,729] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 243.5 MB
+[06.05.2019 20:40:03,735] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[06.05.2019 20:40:03,765] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 243.5 MB
+[06.05.2019 20:40:03,766] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[06.05.2019 20:40:03,767] [main] INFO  aas.Part3  - Evolving generation 0, memory free: 240.8 MB
+[06.05.2019 20:40:03,847] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 91.63
+[06.05.2019 20:40:03,848] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X5 + X6 + X1 + X1) - (X8 * X7 * X6)
+[06.05.2019 20:40:03,848] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:40:03,875] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.05
+[06.05.2019 20:40:03,875] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X3 + -5 + X6) * (X7 + -5 + X4 + X8) * ((X2 + X8) / -5)
+[06.05.2019 20:40:03,875] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:40:04,128] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.24
+[06.05.2019 20:40:04,129] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X3 + -5 + X6) * (X7 + -5 + X4 + X8) * (((X6 * X2 * X9) + X8) / -5)
+[06.05.2019 20:40:04,129] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:40:04,169] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.62
+[06.05.2019 20:40:04,170] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (7 - X6) - (X2 + X8)
+[06.05.2019 20:40:04,170] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:40:04,266] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.81
+[06.05.2019 20:40:04,266] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X4 + X5) - (X4 * X1 * (X4 * X8 * (X3 + -5 + X6)))
+[06.05.2019 20:40:04,267] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:40:04,365] [main] INFO  aas.Part3  - Evolving generation 25, memory free: 182.4 MB
+[06.05.2019 20:40:04,776] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.00
+[06.05.2019 20:40:04,776] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X3 + -2 + X6) - (X4 * X1 * ((X4 * X8 * X9) * X8 * (X3 + -5 + X6)))
+[06.05.2019 20:40:04,776] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:40:04,818] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.38
+[06.05.2019 20:40:04,818] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (9 - X9) - (X7 * (X3 + -3 + X6))
+[06.05.2019 20:40:04,818] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:40:04,901] [main] INFO  aas.Part3  - Evolving generation 50, memory free: 186.6 MB
+[06.05.2019 20:40:05,386] [main] INFO  aas.Part3  - Evolving generation 75, memory free: 184.7 MB
+[06.05.2019 20:40:05,941] [main] INFO  aas.Part3  - Evolving generation 100, memory free: 184.7 MB
+[06.05.2019 20:40:06,555] [main] INFO  aas.Part3  - Evolving generation 125, memory free: 181.9 MB
+[06.05.2019 20:40:07,061] [main] INFO  aas.Part3  - Evolving generation 150, memory free: 175.5 MB
+[06.05.2019 20:40:07,403] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.76
+[06.05.2019 20:40:07,403] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((9 - (X6 + (X1 + X4 + X5 + X6))) + 10) - (X3 + X9)
+[06.05.2019 20:40:07,403] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:40:07,647] [main] INFO  aas.Part3  - Evolving generation 175, memory free: 216.1 MB
+[06.05.2019 20:40:08,181] [main] INFO  aas.Part3  - Evolving generation 200, memory free: 198.5 MB
+[06.05.2019 20:40:08,680] [main] INFO  aas.Part3  - Evolving generation 225, memory free: 177.8 MB
+[06.05.2019 20:40:09,319] [main] INFO  aas.Part3  - Evolving generation 250, memory free: 200.8 MB
+[06.05.2019 20:40:09,837] [main] INFO  aas.Part3  - Evolving generation 275, memory free: 179.7 MB
+[06.05.2019 20:40:10,342] [main] INFO  aas.Part3  - Evolving generation 300, memory free: 198.8 MB
+[06.05.2019 20:40:10,826] [main] INFO  aas.Part3  - Evolving generation 325, memory free: 173.6 MB
+[06.05.2019 20:40:11,336] [main] INFO  aas.Part3  - Evolving generation 350, memory free: 187.0 MB
+[06.05.2019 20:40:11,854] [main] INFO  aas.Part3  - Evolving generation 375, memory free: 194.7 MB
+[06.05.2019 20:40:12,363] [main] INFO  aas.Part3  - Evolving generation 400, memory free: 199.5 MB
+[06.05.2019 20:40:12,876] [main] INFO  aas.Part3  - Evolving generation 425, memory free: 197.9 MB
+[06.05.2019 20:40:13,393] [main] INFO  aas.Part3  - Evolving generation 450, memory free: 191.8 MB
+[06.05.2019 20:40:13,970] [main] INFO  aas.Part3  - Evolving generation 475, memory free: 181.7 MB
+[06.05.2019 20:40:14,628] [main] INFO  aas.Part3  - Evolving generation 500, memory free: 166.5 MB
+[06.05.2019 20:40:15,198] [main] INFO  aas.Part3  - Evolving generation 525, memory free: 177.7 MB
+[06.05.2019 20:40:15,673] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:40:15,673] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((3 - (X2 * X3 * X6)) - X7) + 10) - (-6 - (9 - (X8 * X3 * X6)))
+[06.05.2019 20:40:15,673] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:40:15,734] [main] INFO  aas.Part3  - Evolving generation 550, memory free: 188.6 MB
+[06.05.2019 20:40:16,249] [main] INFO  aas.Part3  - Evolving generation 575, memory free: 168.2 MB
+[06.05.2019 20:40:16,759] [main] INFO  aas.Part3  - Evolving generation 600, memory free: 177.9 MB
+[06.05.2019 20:40:17,268] [main] INFO  aas.Part3  - Evolving generation 625, memory free: 188.9 MB
+[06.05.2019 20:40:17,766] [main] INFO  aas.Part3  - Evolving generation 650, memory free: 168.3 MB
+[06.05.2019 20:40:18,286] [main] INFO  aas.Part3  - Evolving generation 675, memory free: 178.2 MB
+[06.05.2019 20:40:18,938] [main] INFO  aas.Part3  - Evolving generation 700, memory free: 187.1 MB
+[06.05.2019 20:40:19,718] [main] INFO  aas.Part3  - Evolving generation 725, memory free: 165.2 MB
+[06.05.2019 20:40:20,325] [main] INFO  aas.Part3  - Evolving generation 750, memory free: 175.1 MB
+[06.05.2019 20:40:20,850] [main] INFO  aas.Part3  - Evolving generation 775, memory free: 183.1 MB
+[06.05.2019 20:40:21,371] [main] INFO  aas.Part3  - Evolving generation 800, memory free: 192.2 MB
+[06.05.2019 20:40:21,865] [main] INFO  aas.Part3  - Evolving generation 825, memory free: 171.2 MB
+[06.05.2019 20:40:22,370] [main] INFO  aas.Part3  - Evolving generation 850, memory free: 180.7 MB
+[06.05.2019 20:40:22,888] [main] INFO  aas.Part3  - Evolving generation 875, memory free: 191.1 MB
+[06.05.2019 20:40:23,398] [main] INFO  aas.Part3  - Evolving generation 900, memory free: 169.6 MB
+[06.05.2019 20:40:23,898] [main] INFO  aas.Part3  - Evolving generation 925, memory free: 179.2 MB
+[06.05.2019 20:40:24,415] [main] INFO  aas.Part3  - Evolving generation 950, memory free: 189.1 MB
+[06.05.2019 20:40:24,933] [main] INFO  aas.Part3  - Evolving generation 975, memory free: 169.2 MB
+[06.05.2019 20:40:25,426] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:40:25,426] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((3 - (X2 * X3 * X6)) - X7) + 10) - (-6 - (9 - (X8 * X3 * X6)))
+[06.05.2019 20:40:25,426] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:40:25,427] [main] INFO  aas.Part3  - The programs accuracy on the test set: 98.26589595375722%
+[06.05.2019 20:42:21,533] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[06.05.2019 20:42:21,537] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 243.5 MB
+[06.05.2019 20:42:21,542] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[06.05.2019 20:42:21,573] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 243.5 MB
+[06.05.2019 20:42:21,575] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[06.05.2019 20:42:21,575] [main] INFO  aas.Part3  - Evolving generation 0, memory free: 240.8 MB
+[06.05.2019 20:42:21,653] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 91.63
+[06.05.2019 20:42:21,654] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (E + F + A + A) - (H * G * F)
+[06.05.2019 20:42:21,654] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:42:21,679] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.05
+[06.05.2019 20:42:21,679] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (C + -5 + F) * (G + -5 + D + H) * ((B + H) / -5)
+[06.05.2019 20:42:21,679] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:42:21,926] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.24
+[06.05.2019 20:42:21,926] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (C + -5 + F) * (G + -5 + D + H) * (((F * B * I) + H) / -5)
+[06.05.2019 20:42:21,926] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:42:21,966] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.62
+[06.05.2019 20:42:21,967] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (7 - F) - (B + H)
+[06.05.2019 20:42:21,967] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:42:22,070] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.81
+[06.05.2019 20:42:22,070] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (D + E) - (D * A * (D * H * (C + -5 + F)))
+[06.05.2019 20:42:22,070] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:42:22,168] [main] INFO  aas.Part3  - Evolving generation 25, memory free: 181.7 MB
+[06.05.2019 20:42:22,557] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.00
+[06.05.2019 20:42:22,558] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (C + -2 + F) - (D * A * ((D * H * I) * H * (C + -5 + F)))
+[06.05.2019 20:42:22,558] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:42:22,595] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.38
+[06.05.2019 20:42:22,596] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (9 - I) - (G * (C + -3 + F))
+[06.05.2019 20:42:22,596] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:42:22,683] [main] INFO  aas.Part3  - Evolving generation 50, memory free: 186.8 MB
+[06.05.2019 20:42:23,190] [main] INFO  aas.Part3  - Evolving generation 75, memory free: 184.8 MB
+[06.05.2019 20:42:23,678] [main] INFO  aas.Part3  - Evolving generation 100, memory free: 185.9 MB
+[06.05.2019 20:42:24,192] [main] INFO  aas.Part3  - Evolving generation 125, memory free: 181.9 MB
+[06.05.2019 20:42:24,684] [main] INFO  aas.Part3  - Evolving generation 150, memory free: 176.5 MB
+[06.05.2019 20:42:24,943] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.76
+[06.05.2019 20:42:24,943] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((9 - (F + (A + D + E + F))) + 10) - (C + I)
+[06.05.2019 20:42:24,944] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:42:25,204] [main] INFO  aas.Part3  - Evolving generation 175, memory free: 217.1 MB
+[06.05.2019 20:42:25,814] [main] INFO  aas.Part3  - Evolving generation 200, memory free: 198.0 MB
+[06.05.2019 20:42:26,448] [main] INFO  aas.Part3  - Evolving generation 225, memory free: 178.3 MB
+[06.05.2019 20:42:26,954] [main] INFO  aas.Part3  - Evolving generation 250, memory free: 202.0 MB
+[06.05.2019 20:42:27,520] [main] INFO  aas.Part3  - Evolving generation 275, memory free: 181.3 MB
+[06.05.2019 20:42:28,020] [main] INFO  aas.Part3  - Evolving generation 300, memory free: 200.3 MB
+[06.05.2019 20:42:28,514] [main] INFO  aas.Part3  - Evolving generation 325, memory free: 174.9 MB
+[06.05.2019 20:42:29,010] [main] INFO  aas.Part3  - Evolving generation 350, memory free: 189.0 MB
+[06.05.2019 20:42:29,567] [main] INFO  aas.Part3  - Evolving generation 375, memory free: 196.6 MB
+[06.05.2019 20:42:30,067] [main] INFO  aas.Part3  - Evolving generation 400, memory free: 201.6 MB
+[06.05.2019 20:42:30,582] [main] INFO  aas.Part3  - Evolving generation 425, memory free: 200.4 MB
+[06.05.2019 20:42:31,081] [main] INFO  aas.Part3  - Evolving generation 450, memory free: 194.6 MB
+[06.05.2019 20:42:31,596] [main] INFO  aas.Part3  - Evolving generation 475, memory free: 184.1 MB
+[06.05.2019 20:42:32,119] [main] INFO  aas.Part3  - Evolving generation 500, memory free: 170.1 MB
+[06.05.2019 20:42:32,641] [main] INFO  aas.Part3  - Evolving generation 525, memory free: 181.3 MB
+[06.05.2019 20:42:33,099] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:42:33,099] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((3 - (B * C * F)) - G) + 10) - (-6 - (9 - (H * C * F)))
+[06.05.2019 20:42:33,099] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:42:33,157] [main] INFO  aas.Part3  - Evolving generation 550, memory free: 191.4 MB
+[06.05.2019 20:42:33,658] [main] INFO  aas.Part3  - Evolving generation 575, memory free: 171.4 MB
+[06.05.2019 20:42:34,155] [main] INFO  aas.Part3  - Evolving generation 600, memory free: 182.0 MB
+[06.05.2019 20:42:34,658] [main] INFO  aas.Part3  - Evolving generation 625, memory free: 192.5 MB
+[06.05.2019 20:42:35,146] [main] INFO  aas.Part3  - Evolving generation 650, memory free: 171.9 MB
+[06.05.2019 20:42:35,651] [main] INFO  aas.Part3  - Evolving generation 675, memory free: 181.5 MB
+[06.05.2019 20:42:36,157] [main] INFO  aas.Part3  - Evolving generation 700, memory free: 190.5 MB
+[06.05.2019 20:42:36,667] [main] INFO  aas.Part3  - Evolving generation 725, memory free: 169.3 MB
+[06.05.2019 20:42:37,172] [main] INFO  aas.Part3  - Evolving generation 750, memory free: 178.8 MB
+[06.05.2019 20:42:37,783] [main] INFO  aas.Part3  - Evolving generation 775, memory free: 187.2 MB
+[06.05.2019 20:42:38,285] [main] INFO  aas.Part3  - Evolving generation 800, memory free: 165.8 MB
+[06.05.2019 20:42:38,786] [main] INFO  aas.Part3  - Evolving generation 825, memory free: 175.8 MB
+[06.05.2019 20:42:39,281] [main] INFO  aas.Part3  - Evolving generation 850, memory free: 185.3 MB
+[06.05.2019 20:42:39,776] [main] INFO  aas.Part3  - Evolving generation 875, memory free: 164.8 MB
+[06.05.2019 20:42:40,281] [main] INFO  aas.Part3  - Evolving generation 900, memory free: 174.3 MB
+[06.05.2019 20:42:40,763] [main] INFO  aas.Part3  - Evolving generation 925, memory free: 184.0 MB
+[06.05.2019 20:42:41,283] [main] INFO  aas.Part3  - Evolving generation 950, memory free: 164.3 MB
+[06.05.2019 20:42:41,779] [main] INFO  aas.Part3  - Evolving generation 975, memory free: 173.8 MB
+[06.05.2019 20:42:42,352] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:42:42,352] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((3 - (B * C * F)) - G) + 10) - (-6 - (9 - (H * C * F)))
+[06.05.2019 20:42:42,352] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:42:42,352] [main] INFO  aas.Part3  - The programs accuracy on the test set: 98.26589595375722%
+[06.05.2019 20:43:22,564] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[06.05.2019 20:43:22,568] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 243.5 MB
+[06.05.2019 20:43:22,574] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[06.05.2019 20:43:22,605] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 243.5 MB
+[06.05.2019 20:43:22,607] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[06.05.2019 20:43:22,607] [main] INFO  aas.Part3  - Evolving generation 0, memory free: 240.8 MB
+[06.05.2019 20:43:22,687] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 91.63
+[06.05.2019 20:43:22,688] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (E + F + A + A) - (H * G * F)
+[06.05.2019 20:43:22,688] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:43:22,717] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.05
+[06.05.2019 20:43:22,718] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (C + -5 + F) * (G + -5 + D + H) * ((B + H) / -5)
+[06.05.2019 20:43:22,718] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:43:22,964] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.24
+[06.05.2019 20:43:22,964] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (C + -5 + F) * (G + -5 + D + H) * (((F * B * I) + H) / -5)
+[06.05.2019 20:43:22,964] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:43:23,005] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.62
+[06.05.2019 20:43:23,006] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (7 - F) - (B + H)
+[06.05.2019 20:43:23,006] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:43:23,099] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.81
+[06.05.2019 20:43:23,100] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (D + E) - (D * A * (D * H * (C + -5 + F)))
+[06.05.2019 20:43:23,100] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:43:23,198] [main] INFO  aas.Part3  - Evolving generation 25, memory free: 181.7 MB
+[06.05.2019 20:43:23,614] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.00
+[06.05.2019 20:43:23,614] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (C + -2 + F) - (D * A * ((D * H * I) * H * (C + -5 + F)))
+[06.05.2019 20:43:23,614] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:43:23,663] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.38
+[06.05.2019 20:43:23,664] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (9 - I) - (G * (C + -3 + F))
+[06.05.2019 20:43:23,664] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:43:23,748] [main] INFO  aas.Part3  - Evolving generation 50, memory free: 186.8 MB
+[06.05.2019 20:43:24,231] [main] INFO  aas.Part3  - Evolving generation 75, memory free: 184.9 MB
+[06.05.2019 20:43:24,733] [main] INFO  aas.Part3  - Evolving generation 100, memory free: 186.0 MB
+[06.05.2019 20:43:25,234] [main] INFO  aas.Part3  - Evolving generation 125, memory free: 181.9 MB
+[06.05.2019 20:43:25,750] [main] INFO  aas.Part3  - Evolving generation 150, memory free: 176.5 MB
+[06.05.2019 20:43:26,021] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.76
+[06.05.2019 20:43:26,021] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((9 - (F + (A + D + E + F))) + 10) - (C + I)
+[06.05.2019 20:43:26,021] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:43:26,277] [main] INFO  aas.Part3  - Evolving generation 175, memory free: 217.1 MB
+[06.05.2019 20:43:26,798] [main] INFO  aas.Part3  - Evolving generation 200, memory free: 198.0 MB
+[06.05.2019 20:43:27,302] [main] INFO  aas.Part3  - Evolving generation 225, memory free: 178.4 MB
+[06.05.2019 20:43:27,942] [main] INFO  aas.Part3  - Evolving generation 250, memory free: 203.7 MB
+[06.05.2019 20:43:28,471] [main] INFO  aas.Part3  - Evolving generation 275, memory free: 182.4 MB
+[06.05.2019 20:43:28,988] [main] INFO  aas.Part3  - Evolving generation 300, memory free: 202.2 MB
+[06.05.2019 20:43:29,469] [main] INFO  aas.Part3  - Evolving generation 325, memory free: 176.7 MB
+[06.05.2019 20:44:13,441] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[06.05.2019 20:44:13,452] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 243.5 MB
+[06.05.2019 20:44:13,458] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[06.05.2019 20:44:13,489] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 243.5 MB
+[06.05.2019 20:44:13,490] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[06.05.2019 20:44:13,491] [main] INFO  aas.Part3  - Evolving generation 0, memory free: 240.8 MB
+[06.05.2019 20:44:13,569] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 89.35
+[06.05.2019 20:44:13,570] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (I + I + G + G) - (B * D * G)
+[06.05.2019 20:44:13,570] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:44:13,620] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 93.72
+[06.05.2019 20:44:13,620] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (D + C + D + G) - (D * F * C)
+[06.05.2019 20:44:13,620] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:44:13,853] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 94.29
+[06.05.2019 20:44:13,853] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((D + ((F * B) + E) + D + G) - (D * F * C)) - (B * H)
+[06.05.2019 20:44:13,853] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:44:13,937] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.05
+[06.05.2019 20:44:13,938] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((D + ((3 - G) + E) + D + F) - (D * F * C)) - (3 - G)
+[06.05.2019 20:44:13,938] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:44:13,980] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.43
+[06.05.2019 20:44:13,980] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((D + (8 - G) + D + G) - (D * F * C)) - (B * H)
+[06.05.2019 20:44:13,981] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:44:14,023] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.62
+[06.05.2019 20:44:14,023] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((8 - (E - D)) - (D * F * C)) - (I - F)
+[06.05.2019 20:44:14,023] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:44:14,106] [main] INFO  aas.Part3  - Evolving generation 25, memory free: 182.5 MB
+[06.05.2019 20:44:14,151] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.81
+[06.05.2019 20:44:14,151] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((D + (8 - G) + D + G) - (D * F * C)) - B
+[06.05.2019 20:44:14,151] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:44:14,618] [main] INFO  aas.Part3  - Evolving generation 50, memory free: 189.7 MB
+[06.05.2019 20:44:14,667] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.19
+[06.05.2019 20:44:14,668] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((D + (8 - G) + (7 - (B + H + F)) + G) - (D * F * C)) - B
+[06.05.2019 20:44:14,668] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:44:15,186] [main] INFO  aas.Part3  - Evolving generation 75, memory free: 187.2 MB
+[06.05.2019 20:44:15,692] [main] INFO  aas.Part3  - Evolving generation 100, memory free: 185.9 MB
+[06.05.2019 20:44:16,202] [main] INFO  aas.Part3  - Evolving generation 125, memory free: 182.1 MB
+[06.05.2019 20:44:16,360] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.38
+[06.05.2019 20:44:16,360] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 8 - (B + C + F)
+[06.05.2019 20:44:16,360] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:44:16,681] [main] INFO  aas.Part3  - Evolving generation 150, memory free: 174.7 MB
+[06.05.2019 20:44:17,127] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.57
+[06.05.2019 20:44:17,128] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: D + 8 + (8 - (F * E * B)) + (8 - (B + H + H))
+[06.05.2019 20:44:17,128] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:44:17,195] [main] INFO  aas.Part3  - Evolving generation 175, memory free: 216.1 MB
+[06.05.2019 20:44:17,695] [main] INFO  aas.Part3  - Evolving generation 200, memory free: 199.0 MB
+[06.05.2019 20:44:18,097] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.76
+[06.05.2019 20:44:18,097] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: D + 8 + (9 - (F * E * B)) + (0 - (2 - (8 - (D + H + B))))
+[06.05.2019 20:44:18,097] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:44:18,219] [main] INFO  aas.Part3  - Evolving generation 225, memory free: 177.4 MB
+[06.05.2019 20:44:18,736] [main] INFO  aas.Part3  - Evolving generation 250, memory free: 199.2 MB
+[06.05.2019 20:44:19,294] [main] INFO  aas.Part3  - Evolving generation 275, memory free: 176.9 MB
+[06.05.2019 20:44:19,798] [main] INFO  aas.Part3  - Evolving generation 300, memory free: 195.1 MB
+[06.05.2019 20:44:20,324] [main] INFO  aas.Part3  - Evolving generation 325, memory free: 169.1 MB
+[06.05.2019 20:44:20,800] [main] INFO  aas.Part3  - Evolving generation 350, memory free: 183.3 MB
+[06.05.2019 20:44:21,299] [main] INFO  aas.Part3  - Evolving generation 375, memory free: 192.0 MB
+[06.05.2019 20:44:21,900] [main] INFO  aas.Part3  - Evolving generation 400, memory free: 194.7 MB
+[06.05.2019 20:44:22,401] [main] INFO  aas.Part3  - Evolving generation 425, memory free: 193.1 MB
+[06.05.2019 20:44:22,881] [main] INFO  aas.Part3  - Evolving generation 450, memory free: 189.8 MB
+[06.05.2019 20:44:23,381] [main] INFO  aas.Part3  - Evolving generation 475, memory free: 180.1 MB
+[06.05.2019 20:44:23,867] [main] INFO  aas.Part3  - Evolving generation 500, memory free: 197.1 MB
+[06.05.2019 20:44:24,346] [main] INFO  aas.Part3  - Evolving generation 525, memory free: 177.4 MB
+[06.05.2019 20:44:24,889] [main] INFO  aas.Part3  - Evolving generation 550, memory free: 189.2 MB
+[06.05.2019 20:44:25,370] [main] INFO  aas.Part3  - Evolving generation 575, memory free: 167.9 MB
+[06.05.2019 20:44:25,527] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:44:25,527] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (10 - A) + 8 + (10 - (F * E * B)) + (9 - (H * E * B))
+[06.05.2019 20:44:25,528] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:44:25,855] [main] INFO  aas.Part3  - Evolving generation 600, memory free: 179.4 MB
+[06.05.2019 20:44:26,360] [main] INFO  aas.Part3  - Evolving generation 625, memory free: 187.8 MB
+[06.05.2019 20:44:26,882] [main] INFO  aas.Part3  - Evolving generation 650, memory free: 168.0 MB
+[06.05.2019 20:44:27,409] [main] INFO  aas.Part3  - Evolving generation 675, memory free: 178.3 MB
+[06.05.2019 20:44:27,915] [main] INFO  aas.Part3  - Evolving generation 700, memory free: 188.5 MB
+[06.05.2019 20:44:28,431] [main] INFO  aas.Part3  - Evolving generation 725, memory free: 169.7 MB
+[06.05.2019 20:44:28,943] [main] INFO  aas.Part3  - Evolving generation 750, memory free: 179.2 MB
+[06.05.2019 20:44:29,449] [main] INFO  aas.Part3  - Evolving generation 775, memory free: 190.3 MB
+[06.05.2019 20:44:29,938] [main] INFO  aas.Part3  - Evolving generation 800, memory free: 170.4 MB
+[06.05.2019 20:44:30,455] [main] INFO  aas.Part3  - Evolving generation 825, memory free: 180.4 MB
+[06.05.2019 20:44:30,955] [main] INFO  aas.Part3  - Evolving generation 850, memory free: 192.0 MB
+[06.05.2019 20:44:31,447] [main] INFO  aas.Part3  - Evolving generation 875, memory free: 170.5 MB
+[06.05.2019 20:44:31,942] [main] INFO  aas.Part3  - Evolving generation 900, memory free: 180.2 MB
+[06.05.2019 20:44:32,438] [main] INFO  aas.Part3  - Evolving generation 925, memory free: 189.9 MB
+[06.05.2019 20:44:32,937] [main] INFO  aas.Part3  - Evolving generation 950, memory free: 168.9 MB
+[06.05.2019 20:44:33,537] [main] INFO  aas.Part3  - Evolving generation 975, memory free: 180.2 MB
+[06.05.2019 20:44:34,052] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:44:34,052] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (10 - A) + 8 + (10 - (F * E * B)) + (9 - (H * E * B))
+[06.05.2019 20:44:34,052] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:44:34,053] [main] INFO  aas.Part3  - The programs accuracy on the test set: 98.26589595375722%
+[06.05.2019 20:45:08,195] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[06.05.2019 20:45:08,206] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 243.5 MB
+[06.05.2019 20:45:08,212] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[06.05.2019 20:45:08,242] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 243.5 MB
+[06.05.2019 20:45:08,243] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[06.05.2019 20:45:08,244] [main] INFO  aas.Part3  - Evolving generation 0, memory free: 240.8 MB
+[06.05.2019 20:45:08,324] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 91.06
+[06.05.2019 20:45:08,325] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((B - F) - (E * B * D)) + ((I + E + I + H) + (A - -9))
+[06.05.2019 20:45:08,326] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:45:08,353] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 93.15
+[06.05.2019 20:45:08,353] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (3 * 3 * 3) - (A * C * C)
+[06.05.2019 20:45:08,353] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:45:08,448] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 93.91
+[06.05.2019 20:45:08,448] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((3 * 3 * 3) - (B - F)) + F) - (B * A * C)
+[06.05.2019 20:45:08,448] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:45:08,471] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 94.67
+[06.05.2019 20:45:08,472] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((4 - D) + (8 + I + G + 8)) - ((F * E) + (G * B))
+[06.05.2019 20:45:08,472] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:45:08,898] [main] INFO  aas.Part3  - Evolving generation 25, memory free: 182.4 MB
+[06.05.2019 20:45:08,990] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 94.86
+[06.05.2019 20:45:08,990] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (F + ((7 - C) + I + G + 8)) - ((F * E) + (G * B))
+[06.05.2019 20:45:08,990] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:45:09,012] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.24
+[06.05.2019 20:45:09,012] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((8 / I) + 9) - ((C * C) + (F * D * H))) / I
+[06.05.2019 20:45:09,012] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:45:09,076] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.43
+[06.05.2019 20:45:09,077] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 6 + ((4 * A) - (A * C * F))
+[06.05.2019 20:45:09,077] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:45:09,236] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.62
+[06.05.2019 20:45:09,236] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((C / I) + (I + ((4 * A) - (A * C * F)))) / 8
+[06.05.2019 20:45:09,236] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:45:09,417] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.38
+[06.05.2019 20:45:09,418] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((8 - C) - B) - F
+[06.05.2019 20:45:09,418] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:45:09,439] [main] INFO  aas.Part3  - Evolving generation 50, memory free: 188.2 MB
+[06.05.2019 20:45:09,690] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.57
+[06.05.2019 20:45:09,690] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (9 / 1) - (F + C + I + B)
+[06.05.2019 20:45:09,690] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:45:09,932] [main] INFO  aas.Part3  - Evolving generation 75, memory free: 183.2 MB
+[06.05.2019 20:45:10,433] [main] INFO  aas.Part3  - Evolving generation 100, memory free: 186.0 MB
+[06.05.2019 20:45:10,948] [main] INFO  aas.Part3  - Evolving generation 125, memory free: 184.1 MB
+[06.05.2019 20:45:11,410] [main] INFO  aas.Part3  - Evolving generation 150, memory free: 176.9 MB
+[06.05.2019 20:45:11,969] [main] INFO  aas.Part3  - Evolving generation 175, memory free: 217.2 MB
+[06.05.2019 20:45:12,492] [main] INFO  aas.Part3  - Evolving generation 200, memory free: 201.0 MB
+[06.05.2019 20:45:13,000] [main] INFO  aas.Part3  - Evolving generation 225, memory free: 179.3 MB
+[06.05.2019 20:45:13,534] [main] INFO  aas.Part3  - Evolving generation 250, memory free: 200.7 MB
+[06.05.2019 20:45:14,060] [main] INFO  aas.Part3  - Evolving generation 275, memory free: 171.9 MB
+[06.05.2019 20:45:14,585] [main] INFO  aas.Part3  - Evolving generation 300, memory free: 193.5 MB
+[06.05.2019 20:45:15,146] [main] INFO  aas.Part3  - Evolving generation 325, memory free: 168.6 MB
+[06.05.2019 20:45:15,169] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.76
+[06.05.2019 20:45:15,169] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: I + ((E * H) * ((9 / 1) - (F + C + I + B))) + D
+[06.05.2019 20:45:15,169] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:45:15,717] [main] INFO  aas.Part3  - Evolving generation 350, memory free: 182.0 MB
+[06.05.2019 20:45:16,252] [main] INFO  aas.Part3  - Evolving generation 375, memory free: 192.0 MB
+[06.05.2019 20:45:16,792] [main] INFO  aas.Part3  - Evolving generation 400, memory free: 197.3 MB
+[06.05.2019 20:45:17,337] [main] INFO  aas.Part3  - Evolving generation 425, memory free: 194.7 MB
+[06.05.2019 20:45:17,861] [main] INFO  aas.Part3  - Evolving generation 450, memory free: 191.1 MB
+[06.05.2019 20:45:18,442] [main] INFO  aas.Part3  - Evolving generation 475, memory free: 180.7 MB
+[06.05.2019 20:45:18,987] [main] INFO  aas.Part3  - Evolving generation 500, memory free: 168.4 MB
+[06.05.2019 20:45:19,498] [main] INFO  aas.Part3  - Evolving generation 525, memory free: 180.9 MB
+[06.05.2019 20:45:20,006] [main] INFO  aas.Part3  - Evolving generation 550, memory free: 191.6 MB
+[06.05.2019 20:45:20,598] [main] INFO  aas.Part3  - Evolving generation 575, memory free: 170.4 MB
+[06.05.2019 20:45:21,101] [main] INFO  aas.Part3  - Evolving generation 600, memory free: 181.0 MB
+[06.05.2019 20:45:21,616] [main] INFO  aas.Part3  - Evolving generation 625, memory free: 190.1 MB
+[06.05.2019 20:45:22,115] [main] INFO  aas.Part3  - Evolving generation 650, memory free: 170.5 MB
+[06.05.2019 20:45:22,614] [main] INFO  aas.Part3  - Evolving generation 675, memory free: 180.6 MB
+[06.05.2019 20:45:23,110] [main] INFO  aas.Part3  - Evolving generation 700, memory free: 192.5 MB
+[06.05.2019 20:45:23,402] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:45:23,402] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((E * H) * ((9 / 1) - (F + C + I + B))) + C + D
+[06.05.2019 20:45:23,402] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:45:23,637] [main] INFO  aas.Part3  - Evolving generation 725, memory free: 172.9 MB
+[06.05.2019 20:45:24,142] [main] INFO  aas.Part3  - Evolving generation 750, memory free: 183.3 MB
+[06.05.2019 20:45:24,671] [main] INFO  aas.Part3  - Evolving generation 775, memory free: 194.4 MB
+[06.05.2019 20:45:25,205] [main] INFO  aas.Part3  - Evolving generation 800, memory free: 174.3 MB
+[06.05.2019 20:45:25,743] [main] INFO  aas.Part3  - Evolving generation 825, memory free: 183.2 MB
+[06.05.2019 20:45:26,274] [main] INFO  aas.Part3  - Evolving generation 850, memory free: 194.5 MB
+[06.05.2019 20:45:26,829] [main] INFO  aas.Part3  - Evolving generation 875, memory free: 175.1 MB
+[06.05.2019 20:45:27,368] [main] INFO  aas.Part3  - Evolving generation 900, memory free: 186.1 MB
+[06.05.2019 20:45:27,912] [main] INFO  aas.Part3  - Evolving generation 925, memory free: 165.7 MB
+[06.05.2019 20:45:28,438] [main] INFO  aas.Part3  - Evolving generation 950, memory free: 176.6 MB
+[06.05.2019 20:45:28,987] [main] INFO  aas.Part3  - Evolving generation 975, memory free: 187.3 MB
+[06.05.2019 20:45:29,535] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:45:29,535] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((E * H) * ((9 / 1) - (F + C + I + B))) + C + D
+[06.05.2019 20:45:29,535] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:45:29,535] [main] INFO  aas.Part3  - The programs accuracy on the test set: 98.26589595375722%
+[06.05.2019 20:46:29,849] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[06.05.2019 20:46:29,860] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 243.5 MB
+[06.05.2019 20:46:29,867] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[06.05.2019 20:46:29,900] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 243.5 MB
+[06.05.2019 20:46:29,901] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[06.05.2019 20:46:29,902] [main] INFO  aas.Part3  - Evolving generation 0, memory free: 240.8 MB
+[06.05.2019 20:46:29,980] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 90.68
+[06.05.2019 20:46:29,981] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (C * F * -2) + (G + C + G + H) + C + B
+[06.05.2019 20:46:29,981] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:46:30,028] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 91.06
+[06.05.2019 20:46:30,028] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (C * F * -2) + (B + F) + C + B
+[06.05.2019 20:46:30,028] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:46:30,050] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 94.10
+[06.05.2019 20:46:30,050] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (B - E) + (C * F * -2) + (9 + E + I) + (H - D)
+[06.05.2019 20:46:30,050] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:46:30,094] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 94.48
+[06.05.2019 20:46:30,095] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (D - B) + (C * F * -2) + (9 + E + I) + (H - D)
+[06.05.2019 20:46:30,095] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:46:30,118] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.62
+[06.05.2019 20:46:30,118] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (D - B) + (C * F * -2) + ((6 + F + 6 + C) - C) + (H - D)
+[06.05.2019 20:46:30,119] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:46:30,343] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.81
+[06.05.2019 20:46:30,343] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (10 - F) + (10 - C) + (C * F * -2) + (C / C)
+[06.05.2019 20:46:30,343] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:46:30,371] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.00
+[06.05.2019 20:46:30,371] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (D - B) + (C * F * -2) + ((6 + F + 6 + C) - C) + (C * F * 0)
+[06.05.2019 20:46:30,371] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:46:30,396] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.38
+[06.05.2019 20:46:30,397] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (C * F * -2) + (10 - C) + (10 - F) + (D - I)
+[06.05.2019 20:46:30,397] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:46:30,532] [main] INFO  aas.Part3  - Evolving generation 25, memory free: 181.7 MB
+[06.05.2019 20:46:30,731] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.76
+[06.05.2019 20:46:30,731] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (C * F * -2) + (10 - C) + (D - I) + (10 - E)
+[06.05.2019 20:46:30,731] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:46:31,084] [main] INFO  aas.Part3  - Evolving generation 50, memory free: 191.1 MB
+[06.05.2019 20:46:31,324] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:46:31,324] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (C * F * -2) + (8 / H) + (7 - (E * B)) + (10 - E)
+[06.05.2019 20:46:31,324] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:46:31,647] [main] INFO  aas.Part3  - Evolving generation 75, memory free: 187.2 MB
+[06.05.2019 20:46:32,174] [main] INFO  aas.Part3  - Evolving generation 100, memory free: 185.9 MB
+[06.05.2019 20:46:32,691] [main] INFO  aas.Part3  - Evolving generation 125, memory free: 183.0 MB
+[06.05.2019 20:46:41,642] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[06.05.2019 20:46:41,655] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 243.5 MB
+[06.05.2019 20:46:41,663] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[06.05.2019 20:46:41,695] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 243.5 MB
+[06.05.2019 20:46:41,696] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[06.05.2019 20:46:41,697] [main] INFO  aas.Part3  - Evolving generation 0, memory free: 240.8 MB
+[06.05.2019 20:46:41,782] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 89.54
+[06.05.2019 20:46:41,783] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((A * G * 7) / (F * F)) - ((D * G * E) - (H / D))
+[06.05.2019 20:46:41,783] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:46:41,808] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 90.11
+[06.05.2019 20:46:41,808] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (D + F + E + F) + ((B * D) - (F * F * D))
+[06.05.2019 20:46:41,808] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:46:41,861] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 90.87
+[06.05.2019 20:46:41,861] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: I + (C / A) + ((2 + (I - B) + D) - (F * F * D))
+[06.05.2019 20:46:41,861] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:46:41,890] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 94.29
+[06.05.2019 20:46:41,891] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (B + 10 + I + ((I - B) * B)) - (F * H)
+[06.05.2019 20:46:41,891] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:46:41,981] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 94.86
+[06.05.2019 20:46:41,981] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (B + 10 + I + ((1 * (C / -2)) * E * I)) - (F * H)
+[06.05.2019 20:46:41,981] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:46:42,089] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.24
+[06.05.2019 20:46:42,090] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 9 - ((H * F) + (B + C))
+[06.05.2019 20:46:42,090] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:46:42,172] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.62
+[06.05.2019 20:46:42,172] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 9 - ((H * F) + (A / H))
+[06.05.2019 20:46:42,172] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:46:42,320] [main] INFO  aas.Part3  - Evolving generation 25, memory free: 181.7 MB
+[06.05.2019 20:46:42,567] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.81
+[06.05.2019 20:46:42,567] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((10 - (F + H)) - (B * F)) + F
+[06.05.2019 20:46:42,567] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:46:42,851] [main] INFO  aas.Part3  - Evolving generation 50, memory free: 190.0 MB
+[06.05.2019 20:46:42,970] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.00
+[06.05.2019 20:46:42,971] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 3 + -4 + D + ((9 - A) - ((B * F) + -4 + D + I))
+[06.05.2019 20:46:42,971] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:46:43,033] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.19
+[06.05.2019 20:46:43,033] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: F - ((((A * F) - (10 - (B * H))) - (10 - D)) * F * D)
+[06.05.2019 20:46:43,033] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[06.05.2019 20:46:43,368] [main] INFO  aas.Part3  - Evolving generation 75, memory free: 185.9 MB
+[06.05.2019 20:46:43,425] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.38
+[06.05.2019 20:46:43,425] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: F - ((((A * F) - (10 - (B * C))) - (10 - D)) * F * D)
+[06.05.2019 20:46:43,425] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[06.05.2019 20:46:43,621] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.57
+[06.05.2019 20:46:43,621] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: F - ((((A * F) - (10 - (B * C))) - (A + F)) * F * D)
+[06.05.2019 20:46:43,621] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[06.05.2019 20:46:43,861] [main] INFO  aas.Part3  - Evolving generation 100, memory free: 183.7 MB
+[06.05.2019 20:46:44,210] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.76
+[06.05.2019 20:46:44,210] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 7 - (((A * F) - (10 - (B * C))) - (I / -2))
+[06.05.2019 20:46:44,210] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:46:44,364] [main] INFO  aas.Part3  - Evolving generation 125, memory free: 181.6 MB
+[06.05.2019 20:46:44,846] [main] INFO  aas.Part3  - Evolving generation 150, memory free: 173.5 MB
+[06.05.2019 20:46:45,427] [main] INFO  aas.Part3  - Evolving generation 175, memory free: 213.0 MB
+[06.05.2019 20:46:45,906] [main] INFO  aas.Part3  - Evolving generation 200, memory free: 196.0 MB
+[06.05.2019 20:46:46,396] [main] INFO  aas.Part3  - Evolving generation 225, memory free: 174.6 MB
+[06.05.2019 20:46:46,849] [main] INFO  aas.Part3  - Evolving generation 250, memory free: 195.7 MB
+[06.05.2019 20:46:47,347] [main] INFO  aas.Part3  - Evolving generation 275, memory free: 211.5 MB
+[06.05.2019 20:46:47,816] [main] INFO  aas.Part3  - Evolving generation 300, memory free: 185.6 MB
+[06.05.2019 20:46:48,290] [main] INFO  aas.Part3  - Evolving generation 325, memory free: 202.1 MB
+[06.05.2019 20:46:48,760] [main] INFO  aas.Part3  - Evolving generation 350, memory free: 174.4 MB
+[06.05.2019 20:46:49,244] [main] INFO  aas.Part3  - Evolving generation 375, memory free: 183.3 MB
+[06.05.2019 20:46:49,847] [main] INFO  aas.Part3  - Evolving generation 400, memory free: 188.2 MB
+[06.05.2019 20:46:50,323] [main] INFO  aas.Part3  - Evolving generation 425, memory free: 187.3 MB
+[06.05.2019 20:46:50,807] [main] INFO  aas.Part3  - Evolving generation 450, memory free: 181.3 MB
+[06.05.2019 20:46:51,304] [main] INFO  aas.Part3  - Evolving generation 475, memory free: 171.3 MB
+[06.05.2019 20:46:51,515] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:46:51,516] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 10 - ((F * I * H) - (10 - ((A * F) - (10 - (B * C)))))
+[06.05.2019 20:46:51,516] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[06.05.2019 20:46:51,777] [main] INFO  aas.Part3  - Evolving generation 500, memory free: 188.4 MB
+[06.05.2019 20:46:52,243] [main] INFO  aas.Part3  - Evolving generation 525, memory free: 167.5 MB
+[06.05.2019 20:46:52,723] [main] INFO  aas.Part3  - Evolving generation 550, memory free: 176.6 MB
+[06.05.2019 20:46:53,176] [main] INFO  aas.Part3  - Evolving generation 575, memory free: 186.2 MB
+[06.05.2019 20:46:53,655] [main] INFO  aas.Part3  - Evolving generation 600, memory free: 165.9 MB
+[06.05.2019 20:46:54,160] [main] INFO  aas.Part3  - Evolving generation 625, memory free: 174.3 MB
+[06.05.2019 20:46:54,657] [main] INFO  aas.Part3  - Evolving generation 650, memory free: 184.5 MB
+[06.05.2019 20:46:54,971] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 97.14
+[06.05.2019 20:46:54,971] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (10 - (E - (10 - (B * F)))) - (I + C + G + C)
+[06.05.2019 20:46:54,971] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:46:55,143] [main] INFO  aas.Part3  - Evolving generation 675, memory free: 166.1 MB
+[06.05.2019 20:46:55,622] [main] INFO  aas.Part3  - Evolving generation 700, memory free: 177.9 MB
+[06.05.2019 20:46:56,202] [main] INFO  aas.Part3  - Evolving generation 725, memory free: 190.0 MB
+[06.05.2019 20:46:56,763] [main] INFO  aas.Part3  - Evolving generation 750, memory free: 168.5 MB
+[06.05.2019 20:46:57,321] [main] INFO  aas.Part3  - Evolving generation 775, memory free: 177.9 MB
+[06.05.2019 20:46:57,809] [main] INFO  aas.Part3  - Evolving generation 800, memory free: 187.2 MB
+[06.05.2019 20:46:58,390] [main] INFO  aas.Part3  - Evolving generation 825, memory free: 167.4 MB
+[06.05.2019 20:46:58,864] [main] INFO  aas.Part3  - Evolving generation 850, memory free: 179.0 MB
+[06.05.2019 20:46:59,335] [main] INFO  aas.Part3  - Evolving generation 875, memory free: 189.7 MB
+[06.05.2019 20:46:59,809] [main] INFO  aas.Part3  - Evolving generation 900, memory free: 168.4 MB
+[06.05.2019 20:47:00,271] [main] INFO  aas.Part3  - Evolving generation 925, memory free: 179.1 MB
+[06.05.2019 20:47:00,752] [main] INFO  aas.Part3  - Evolving generation 950, memory free: 188.0 MB
+[06.05.2019 20:47:01,220] [main] INFO  aas.Part3  - Evolving generation 975, memory free: 167.9 MB
+[06.05.2019 20:47:01,685] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 97.14
+[06.05.2019 20:47:01,685] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (10 - (E - (10 - (B * F)))) - (I + C + G + C)
+[06.05.2019 20:47:01,685] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:47:01,685] [main] INFO  aas.Part3  - The programs accuracy on the test set: 98.26589595375722%
+[06.05.2019 20:47:30,889] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[06.05.2019 20:47:30,900] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 243.5 MB
+[06.05.2019 20:47:30,907] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[06.05.2019 20:47:30,941] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 243.5 MB
+[06.05.2019 20:47:30,943] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[06.05.2019 20:47:30,943] [main] INFO  aas.Part3  - Evolving generation 0, memory free: 240.8 MB
+[06.05.2019 20:47:31,031] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 91.44
+[06.05.2019 20:47:31,033] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (I + C + B) - (F * H * C)
+[06.05.2019 20:47:31,033] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:47:31,061] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.43
+[06.05.2019 20:47:31,062] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (5 - F) - (E + C + -3)
+[06.05.2019 20:47:31,062] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:47:31,248] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.81
+[06.05.2019 20:47:31,249] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((I + F) + (B + D)) / (-7 + -7 + A)
+[06.05.2019 20:47:31,249] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:47:31,408] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.19
+[06.05.2019 20:47:31,409] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (B * F) / (-6 + -7 + A)
+[06.05.2019 20:47:31,409] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:47:31,428] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.57
+[06.05.2019 20:47:31,429] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((F + -2 + B + H) + (C / D)) / (-7 + -7 + A)
+[06.05.2019 20:47:31,429] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:47:31,577] [main] INFO  aas.Part3  - Evolving generation 25, memory free: 183.1 MB
+[06.05.2019 20:47:32,139] [main] INFO  aas.Part3  - Evolving generation 50, memory free: 189.9 MB
+[06.05.2019 20:47:32,670] [main] INFO  aas.Part3  - Evolving generation 75, memory free: 186.8 MB
+[06.05.2019 20:47:33,188] [main] INFO  aas.Part3  - Evolving generation 100, memory free: 190.5 MB
+[06.05.2019 20:47:33,250] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.76
+[06.05.2019 20:47:33,250] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (F + -2 + B + H) / (-7 + -5 + A)
+[06.05.2019 20:47:33,250] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[06.05.2019 20:47:33,694] [main] INFO  aas.Part3  - Evolving generation 125, memory free: 187.3 MB
+[06.05.2019 20:47:34,250] [main] INFO  aas.Part3  - Evolving generation 150, memory free: 179.4 MB
+[06.05.2019 20:47:34,790] [main] INFO  aas.Part3  - Evolving generation 175, memory free: 168.7 MB
+[06.05.2019 20:47:35,360] [main] INFO  aas.Part3  - Evolving generation 200, memory free: 203.2 MB
+[06.05.2019 20:47:35,908] [main] INFO  aas.Part3  - Evolving generation 225, memory free: 182.6 MB
+[06.05.2019 20:47:36,524] [main] INFO  aas.Part3  - Evolving generation 250, memory free: 202.4 MB
+[06.05.2019 20:47:37,103] [main] INFO  aas.Part3  - Evolving generation 275, memory free: 181.9 MB
+[06.05.2019 20:47:37,731] [main] INFO  aas.Part3  - Evolving generation 300, memory free: 203.0 MB
+[06.05.2019 20:47:38,350] [main] INFO  aas.Part3  - Evolving generation 325, memory free: 178.6 MB
+[06.05.2019 20:47:38,952] [main] INFO  aas.Part3  - Evolving generation 350, memory free: 193.1 MB
+[06.05.2019 20:47:39,524] [main] INFO  aas.Part3  - Evolving generation 375, memory free: 202.6 MB
+[06.05.2019 20:47:40,076] [main] INFO  aas.Part3  - Evolving generation 400, memory free: 170.4 MB
+[06.05.2019 20:47:40,627] [main] INFO  aas.Part3  - Evolving generation 425, memory free: 172.5 MB
+[06.05.2019 20:47:41,213] [main] INFO  aas.Part3  - Evolving generation 450, memory free: 168.9 MB
+[06.05.2019 20:47:41,565] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:47:41,565] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 9 + (H * (E + F + B + (E - (B * E * F)))) + B
+[06.05.2019 20:47:41,565] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:47:41,814] [main] INFO  aas.Part3  - Evolving generation 475, memory free: 194.1 MB
+[06.05.2019 20:47:42,491] [main] INFO  aas.Part3  - Evolving generation 500, memory free: 180.4 MB
+[06.05.2019 20:47:43,092] [main] INFO  aas.Part3  - Evolving generation 525, memory free: 193.3 MB
+[06.05.2019 20:47:43,659] [main] INFO  aas.Part3  - Evolving generation 550, memory free: 174.6 MB
+[06.05.2019 20:47:44,238] [main] INFO  aas.Part3  - Evolving generation 575, memory free: 185.6 MB
+[06.05.2019 20:47:44,889] [main] INFO  aas.Part3  - Evolving generation 600, memory free: 167.7 MB
+[06.05.2019 20:47:45,437] [main] INFO  aas.Part3  - Evolving generation 625, memory free: 180.4 MB
+[06.05.2019 20:47:45,989] [main] INFO  aas.Part3  - Evolving generation 650, memory free: 191.2 MB
+[06.05.2019 20:47:46,537] [main] INFO  aas.Part3  - Evolving generation 675, memory free: 171.1 MB
+[06.05.2019 20:47:47,099] [main] INFO  aas.Part3  - Evolving generation 700, memory free: 182.3 MB
+[06.05.2019 20:47:47,669] [main] INFO  aas.Part3  - Evolving generation 725, memory free: 194.6 MB
+[06.05.2019 20:47:48,214] [main] INFO  aas.Part3  - Evolving generation 750, memory free: 177.3 MB
+[06.05.2019 20:47:48,909] [main] INFO  aas.Part3  - Evolving generation 775, memory free: 189.9 MB
+[06.05.2019 20:47:49,631] [main] INFO  aas.Part3  - Evolving generation 800, memory free: 171.7 MB
+[06.05.2019 20:47:50,261] [main] INFO  aas.Part3  - Evolving generation 825, memory free: 183.6 MB
+[06.05.2019 20:47:50,831] [main] INFO  aas.Part3  - Evolving generation 850, memory free: 165.2 MB
+[06.05.2019 20:47:51,370] [main] INFO  aas.Part3  - Evolving generation 875, memory free: 175.5 MB
+[06.05.2019 20:47:51,965] [main] INFO  aas.Part3  - Evolving generation 900, memory free: 186.8 MB
+[06.05.2019 20:47:52,597] [main] INFO  aas.Part3  - Evolving generation 925, memory free: 168.5 MB
+[06.05.2019 20:47:53,237] [main] INFO  aas.Part3  - Evolving generation 950, memory free: 179.3 MB
+[06.05.2019 20:47:53,832] [main] INFO  aas.Part3  - Evolving generation 975, memory free: 190.9 MB
+[06.05.2019 20:47:54,408] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:47:54,408] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 9 + (H * (E + F + B + (E - (B * E * F)))) + B
+[06.05.2019 20:47:54,408] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:47:54,409] [main] INFO  aas.Part3  - The programs accuracy on the test set: 98.84393063583815%
+[06.05.2019 20:48:30,038] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[06.05.2019 20:48:30,049] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 243.5 MB
+[06.05.2019 20:48:30,054] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[06.05.2019 20:48:30,079] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 243.5 MB
+[06.05.2019 20:48:30,081] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[06.05.2019 20:48:30,082] [main] INFO  aas.Part3  - Evolving generation 0, memory free: 240.8 MB
+[06.05.2019 20:48:30,156] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 92.01
+[06.05.2019 20:48:30,158] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((C * H) - (B * H * F)) + ((H + G) - (H / B))
+[06.05.2019 20:48:30,158] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:48:30,228] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 94.86
+[06.05.2019 20:48:30,228] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (5 - (B * H * F)) + ((H + G) - (H / B))
+[06.05.2019 20:48:30,228] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:48:30,253] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.24
+[06.05.2019 20:48:30,253] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (5 - (B * H * F)) + (F + D)
+[06.05.2019 20:48:30,254] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:48:30,278] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.43
+[06.05.2019 20:48:30,279] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (5 - (B * H * F)) + 5
+[06.05.2019 20:48:30,279] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:48:30,348] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.62
+[06.05.2019 20:48:30,348] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (10 + H) + ((B / A) - (B * H * F)) + (5 - (B + A))
+[06.05.2019 20:48:30,349] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[06.05.2019 20:48:30,451] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 95.81
+[06.05.2019 20:48:30,452] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (10 + H) + ((B / A) - (B * H * F)) + (5 - (I - (F - D)))
+[06.05.2019 20:48:30,452] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:48:30,715] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.19
+[06.05.2019 20:48:30,715] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: G + G + ((10 - (B * H * F)) - (B * (A + D + -5) * F))
+[06.05.2019 20:48:30,715] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:48:30,716] [main] INFO  aas.Part3  - Evolving generation 25, memory free: 182.5 MB
+[06.05.2019 20:48:31,213] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.38
+[06.05.2019 20:48:31,214] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (8 + C + ((D + 8) - (B * (A + D + -5) * F))) - (B * H * F)
+[06.05.2019 20:48:31,214] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:48:31,257] [main] INFO  aas.Part3  - Evolving generation 50, memory free: 187.9 MB
+[06.05.2019 20:48:31,740] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.76
+[06.05.2019 20:48:31,741] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 5 + (4 - (B * H * F)) + (5 + (4 - (C * E)) + H)
+[06.05.2019 20:48:31,741] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[06.05.2019 20:48:31,808] [main] INFO  aas.Part3  - Evolving generation 75, memory free: 184.8 MB
+[06.05.2019 20:48:32,074] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 96.95
+[06.05.2019 20:48:32,074] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (3 + (8 - A) + (8 + (7 - (C * E)) + H)) - (B * H * F)
+[06.05.2019 20:48:32,074] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:48:32,357] [main] INFO  aas.Part3  - Evolving generation 100, memory free: 185.9 MB
+[06.05.2019 20:48:32,894] [main] INFO  aas.Part3  - Evolving generation 125, memory free: 181.0 MB
+[06.05.2019 20:48:33,429] [main] INFO  aas.Part3  - Evolving generation 150, memory free: 174.5 MB
+[06.05.2019 20:48:34,009] [main] INFO  aas.Part3  - Evolving generation 175, memory free: 214.5 MB
+[06.05.2019 20:48:34,557] [main] INFO  aas.Part3  - Evolving generation 200, memory free: 196.1 MB
+[06.05.2019 20:48:35,149] [main] INFO  aas.Part3  - Evolving generation 225, memory free: 173.6 MB
+[06.05.2019 20:48:35,724] [main] INFO  aas.Part3  - Evolving generation 250, memory free: 201.3 MB
+[06.05.2019 20:48:36,279] [main] INFO  aas.Part3  - Evolving generation 275, memory free: 179.7 MB
+[06.05.2019 20:48:36,835] [main] INFO  aas.Part3  - Evolving generation 300, memory free: 200.1 MB
+[06.05.2019 20:48:37,402] [main] INFO  aas.Part3  - Evolving generation 325, memory free: 173.8 MB
+[06.05.2019 20:48:37,948] [main] INFO  aas.Part3  - Evolving generation 350, memory free: 185.4 MB
+[06.05.2019 20:48:38,470] [main] INFO  aas.Part3  - Evolving generation 375, memory free: 193.4 MB
+[06.05.2019 20:48:38,938] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 97.14
+[06.05.2019 20:48:38,938] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 8 + H + (((6 + (8 - A) + E) - (C * E)) - (B * H * F))
+[06.05.2019 20:48:38,938] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:48:39,135] [main] INFO  aas.Part3  - Evolving generation 400, memory free: 198.1 MB
+[06.05.2019 20:48:39,683] [main] INFO  aas.Part3  - Evolving generation 425, memory free: 196.2 MB
+[06.05.2019 20:48:40,239] [main] INFO  aas.Part3  - Evolving generation 450, memory free: 191.9 MB
+[06.05.2019 20:48:40,764] [main] INFO  aas.Part3  - Evolving generation 475, memory free: 181.9 MB
+[06.05.2019 20:48:41,325] [main] INFO  aas.Part3  - Evolving generation 500, memory free: 167.9 MB
+[06.05.2019 20:48:41,874] [main] INFO  aas.Part3  - Evolving generation 525, memory free: 178.4 MB
+[06.05.2019 20:48:42,440] [main] INFO  aas.Part3  - Evolving generation 550, memory free: 188.2 MB
+[06.05.2019 20:48:43,000] [main] INFO  aas.Part3  - Evolving generation 575, memory free: 167.5 MB
+[06.05.2019 20:48:43,529] [main] INFO  aas.Part3  - Evolving generation 600, memory free: 178.0 MB
+[06.05.2019 20:48:44,050] [main] INFO  aas.Part3  - Evolving generation 625, memory free: 187.2 MB
+[06.05.2019 20:48:44,590] [main] INFO  aas.Part3  - Evolving generation 650, memory free: 166.4 MB
+[06.05.2019 20:48:45,152] [main] INFO  aas.Part3  - Evolving generation 675, memory free: 177.6 MB
+[06.05.2019 20:48:45,693] [main] INFO  aas.Part3  - Evolving generation 700, memory free: 186.0 MB
+[06.05.2019 20:48:46,301] [main] INFO  aas.Part3  - Evolving generation 725, memory free: 195.6 MB
+[06.05.2019 20:48:46,853] [main] INFO  aas.Part3  - Evolving generation 750, memory free: 174.8 MB
+[06.05.2019 20:48:47,425] [main] INFO  aas.Part3  - Evolving generation 775, memory free: 183.2 MB
+[06.05.2019 20:48:48,011] [main] INFO  aas.Part3  - Evolving generation 800, memory free: 193.9 MB
+[06.05.2019 20:48:48,553] [main] INFO  aas.Part3  - Evolving generation 825, memory free: 174.3 MB
+[06.05.2019 20:48:49,110] [main] INFO  aas.Part3  - Evolving generation 850, memory free: 183.9 MB
+[06.05.2019 20:48:49,673] [main] INFO  aas.Part3  - Evolving generation 875, memory free: 194.7 MB
+[06.05.2019 20:48:50,229] [main] INFO  aas.Part3  - Evolving generation 900, memory free: 173.9 MB
+[06.05.2019 20:48:50,776] [main] INFO  aas.Part3  - Evolving generation 925, memory free: 184.5 MB
+[06.05.2019 20:48:51,333] [main] INFO  aas.Part3  - Evolving generation 950, memory free: 165.0 MB
+[06.05.2019 20:48:51,871] [main] INFO  aas.Part3  - Evolving generation 975, memory free: 175.6 MB
+[06.05.2019 20:48:52,393] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 97.14
+[06.05.2019 20:48:52,393] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 8 + H + (((6 + (8 - A) + E) - (C * E)) - (B * H * F))
+[06.05.2019 20:48:52,393] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[06.05.2019 20:48:52,393] [main] INFO  aas.Part3  - The programs accuracy on the test set: 98.84393063583815%
